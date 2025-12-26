@@ -9,7 +9,7 @@ MultiVTP is a multilabel model for virus target protein prediction that integrat
     cd MultiVTP
    ```
 2.Install the necessary dependencies.
-   ** Python packages
+   * Python packages
       ```text
       python                3.9.0    
       Numpy                 1.24.3     
@@ -23,6 +23,7 @@ MultiVTP is a multilabel model for virus target protein prediction that integrat
       networkx              3.2.1
       node2vec              0.5.0
       ```
+
         
         
         
