@@ -23,6 +23,11 @@ MultiVTP is a multilabel model for virus target protein prediction that integrat
       networkx              3.2.1
       node2vec              0.5.0
       ```
+      We recommend creating a new conda environment for MultiVTP, and then install the required packages within this environment.
+      ```shell
+      conda create -n MultiVTP python=3.9.0
+      conda activate MultiVTP
+      ```
 
         
         
