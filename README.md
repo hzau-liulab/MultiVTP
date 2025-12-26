@@ -22,6 +22,7 @@ MultiVTP is a multilabel model for virus target protein prediction that integrat
       transformers          4.44.2
       networkx              3.2.1
       node2vec              0.5.0
+      ```
         
         
         
