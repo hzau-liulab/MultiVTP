@@ -10,17 +10,18 @@ MultiVTP is a multilabel model for virus target protein prediction that integrat
    ```
 2.Install the necessary dependencies.
    ** Python packages
-        python                3.9.0    
-        Numpy                 1.24.3     
-        Pandas                2.2.2              
-        fair-esm              2.0.0      
-        pytorch               2.2.0    
-        DGL                   2.4.0
-        scikit-learn          1.3.0    
-        pygosemsim            0.1.0
-        transformers          4.44.2
-        networkx              3.2.1
-        node2vec              0.5.0
+      ```text
+      python                3.9.0    
+      Numpy                 1.24.3     
+      Pandas                2.2.2              
+      fair-esm              2.0.0      
+      pytorch               2.2.0    
+      DGL                   2.4.0
+      scikit-learn          1.3.0    
+      pygosemsim            0.1.0
+      transformers          4.44.2
+      networkx              3.2.1
+      node2vec              0.5.0
         
         
         
