@@ -33,6 +33,6 @@ Our pre-trained model weights can be found at [MultiVTP model](https://drive.goo
 ESM-2 [esm2_t36_3B_UR50D](https://dl.fbaipublicfiles.com/fair-esm/models/esm2_t36_3B_UR50D.pt)        
 PubMedBERT [PubMedBERT](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224/tree/main)
 
-Pre-trained model weights need move to the 'model_weights' folder. ESM-2 and PubMedBERT should be placed in the ./pretrain_models/ESM2and ./pretrain_models/PubMedBERT directories, respectively.
+Pre-trained model weights need move to the `./model_weights` folder. ESM-2 and PubMedBERT should be placed in the `./pretrain_models/ESM2` and `./pretrain_models/PubMedBERT` directories, respectively.
         
 
