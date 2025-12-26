@@ -28,8 +28,8 @@ cd MultiVTP
    conda create -n MultiVTP python=3.9.0
    conda activate MultiVTP
    ```
-3. Download the pre-trained model weights            
-Our pre-trained model weights can be found at [MultiVTP model](https://drive.google.com/drive/folders/1h8jA142_CyDYjMXoiWPJVtuTY9yCz0zq?usp=drive_link)         
+3. Download the pre-trained model weights.            
+Our pre-trained model weights can be found at [MultiVTP model](https://drive.google.com/drive/folders/1h8jA142_CyDYjMXoiWPJVtuTY9yCz0zq?usp=drive_link).         
 ESM-2 [esm2_t36_3B_UR50D](https://dl.fbaipublicfiles.com/fair-esm/models/esm2_t36_3B_UR50D.pt)        
 PubMedBERT [PubMedBERT](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224/tree/main)
 
@@ -44,10 +44,9 @@ Pre-trained model weights need move to the `./model_weights` folder. ESM-2 and P
 
 3. Download network attributes.    
    [Global Topological Properties](https://drive.google.com/file/d/1WDSQf_rUHxOlvipQ-2fPHkB5EKGnEajl/view?usp=drive_link): Download and place the global_topological_properties into `./input/PPInetwork/directory`.    
-   [Subgraphs](https://drive.google.com/file/d/1fNAyrpgUU92InZqpkvme-CdmpEF4mO7x/view?usp=sharing) : Download and also place it into `./input/PPInetwork`.    
-   Alternatively, you can generate subgraphs yourself by running the script `./features/PPInetwork/network_attributes.py`.    
+   [Subgraphs](https://drive.google.com/file/d/1fNAyrpgUU92InZqpkvme-CdmpEF4mO7x/view?usp=sharing): Download and also place it into `./input/PPInetwork`. Alternatively, you can generate subgraphs yourself by running the script `./features/PPInetwork/network_attributes.py`.    
 
-4. Run the prediction
+4. Run the prediction.
    Run the following command:   
    
        python prediction.py --query_proteins Q8N6M3
