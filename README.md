@@ -36,14 +36,17 @@ PubMedBERT [PubMedBERT](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_2
 Pre-trained model weights need move to the `./model_weights` folder. ESM-2 and PubMedBERT should be placed in the `./pretrain_models/ESM2` and `./pretrain_models/PubMedBERT` directories, respectively.
 
 ## Run MultiVTP model
-1. Prepare input fasta file.      
-   Each protein sequence should be saved in the `./input/fast` folder in FASTA format.       
+1. Prepare input sequences.      
+   Save each protein sequence as a separate FASTA file in the `./input/fast` folder.       
    
-2. Prepare input protein function file.    
-   Each protein function should be saved in the `./input/GO` folder in txt format.
+2. Prepare functional annotations.    
+   Save each protein's functional annotations (Gene Ontology terms) in the `./input/GO` folder.
 
-3. Download the global topological properties.   
-   Global topological properties [Global topological properties](https://drive.google.com/file/d/1WDSQf_rUHxOlvipQ-2fPHkB5EKGnEajl/view?usp=drive_link)   
-   Please place the global_topological_properties file into the `./input/PPInetwork/directory`.
+3. Download network Files.
+   Global Topological Properties: Download and place the global_topological_properties into `./input/PPInetwork/directory`[Global Topological Properties](https://drive.google.com/file/d/1WDSQf_rUHxOlvipQ-2fPHkB5EKGnEajl/view?usp=drive_link).
+   Subgraphs: Download and also place it into `./input/PPInetwork`. [Subgraphs](https://drive.google.com/file/d/1fNAyrpgUU92InZqpkvme-CdmpEF4mO7x/view?usp=sharing)
+   Alternatively, you can generate subgraphs yourself by running the script `./features/PPInetwork/network_attributes.py`.
+   
+   
 
 
