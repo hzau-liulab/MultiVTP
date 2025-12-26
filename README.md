@@ -43,7 +43,8 @@ Pre-trained model weights need move to the `./model_weights` folder. ESM-2 and P
    Each protein function should be saved in the `./input/GO` folder in txt format.
 
 3. Download the global topological properties.
-   Global topological properties [Global topological properties](https://drive.google.com/file/d/1WDSQf_rUHxOlvipQ-2fPHkB5EKGnEajl/view?usp=drive_link)
+   Global topological properties [Global topological properties](https://drive.google.com/file/d/1WDSQf_rUHxOlvipQ-2fPHkB5EKGnEajl/view?usp=drive_link).
+
    Please place the global_topological_properties file into the `./input/PPInetwork/directory`.
 
 
