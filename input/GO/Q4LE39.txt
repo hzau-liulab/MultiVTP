@@ -1,0 +1,21 @@
+GO:0006325	The assembly or remodeling of chromatin composed of DNA complexed with histones, other associated proteins, and sometimes RNA.
+GO:0005515	Binding to a protein.
+GO:0003677	Any molecular function by which a gene product interacts selectively and non-covalently with DNA (deoxyribonucleic acid).
+GO:0071514	The establishment of epigenetic modifications (imprints) during gametogenesis, and propagation of these imprints during the organism's life. Genomic imprinting leads to an asymmetry between the maternal and paternal alleles and differential expression of the corresponding alleles. This can happen through heterochromatin formation or differential chromatin loop formation.
+GO:0006357	Any process that modulates the frequency, rate or extent of transcription mediated by RNA polymerase II.
+GO:0005829	The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.
+GO:0030336	Any process that stops, prevents, or reduces the frequency, rate or extent of cell migration.
+GO:0070822	Any of a number of evolutionarily conserved histone deacetylase complexes (HDACs) containing a core consisting of a paired amphipathic helix motif protein (e.g. Sin3p in S. cerevisiae, Pst1 in S. pombe or Sin3A in mammals) at least one class I histone deacetylase (e.g. Rpd3p in S. cerevisiae, Clr6 in S. pombe, or HDAC1 and HDAC2 in mammals), and at least one WD40 repeat protein (e.g. Ume1p in S. cerevisiae, Prw1 in S. pombe, or RbAp46 and RbAp48 in mammals). These complexes also contain a variable number of other proteins that direct histone binding, DNA binding, or add other functionality to the complex.
+GO:0007283	The developmental process by which male germ line stem cells self renew or give rise to successive cell types resulting in the development of a spermatozoa.
+GO:1902455	Any process that stops, prevents or reduces the frequency, rate or extent of stem cell population maintenance.
+GO:0030512	Any process that stops, prevents, or reduces the frequency, rate or extent of any TGF-beta receptor signaling pathway.
+GO:0005654	That part of the nuclear content other than the chromosomes or the nucleolus.
+GO:0005634	A membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. In most cells, the nucleus contains all of the cell's chromosomes except the organellar chromosomes, and is the site of RNA synthesis and processing. In some species, or in specialized cell types, RNA metabolism or DNA replication may be absent.
+GO:0000976	Binding to a specific sequence of DNA that is part of a regulatory region that controls transcription of that section of the DNA. The transcribed region might be described as a gene, cistron, or operon.
+GO:1902459	Any process that activates or increases the frequency, rate or extent of stem cell population maintenance.
+GO:0097368	Establishment of a structure near the basement membrane in adjacent Sertoli cells of the seminiferous epithelium for maintaining spermatogenesis. The structure consists of tight junctions, basal ectoplasmic specializations, and desmosome-like junctions.
+GO:0045944	Any process that activates or increases the frequency, rate or extent of transcription from an RNA polymerase II promoter.
+GO:0005739	A semiautonomous, self replicating organelle that occurs in varying numbers, shapes, and sizes in the cytoplasm of virtually all eukaryotic cells. It is notably the site of tissue respiration.
+GO:0000122	Any process that stops, prevents, or reduces the frequency, rate or extent of transcription mediated by RNA polymerase II.
+GO:0006366	The synthesis of RNA from a DNA template by RNA polymerase II (RNAP II), originating at an RNA polymerase II promoter. Includes transcription of messenger RNA (mRNA) and certain small nuclear RNAs (snRNAs).
+GO:0005737	The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.

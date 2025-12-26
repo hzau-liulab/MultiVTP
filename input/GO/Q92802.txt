@@ -1,0 +1,11 @@
+GO:0001824	The process whose specific outcome is the progression of the blastocyst over time, from its formation to the mature structure. The mammalian blastocyst is a hollow ball of cells containing two cell types, the inner cell mass and the trophectoderm.
+GO:0003714	A transcription coregulator activity that represses or decreases the transcription of specific gene sets via binding to a DNA-binding transcription factor at a specific genomic locus, either on its own or as part of a complex. Corepressors often act by altering chromatin structure and modifications. For example, one class of transcription corepressors modifies chromatin structure through covalent modification of histones. A second class remodels the conformation of chromatin in an ATP-dependent fashion. A third class modulates interactions of DNA-bound DNA-binding transcription factors with other transcription coregulators.
+GO:0005634	A membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. In most cells, the nucleus contains all of the cell's chromosomes except the organellar chromosomes, and is the site of RNA synthesis and processing. In some species, or in specialized cell types, RNA metabolism or DNA replication may be absent.
+GO:0005515	Binding to a protein.
+GO:0070062	A vesicle that is released into the extracellular region by fusion of the limiting endosomal membrane of a multivesicular body with the plasma membrane. Extracellular exosomes, also simply called exosomes, have a diameter of about 40-100 nm.
+GO:0000122	Any process that stops, prevents, or reduces the frequency, rate or extent of transcription mediated by RNA polymerase II.
+GO:1902035	Any process that activates or increases the frequency, rate or extent of hematopoietic stem cell proliferation.
+GO:0019899	Binding to an enzyme, a protein with catalytic activity.
+GO:0001701	The process whose specific outcome is the progression of the embryo in the uterus over time, from formation of the zygote in the oviduct, to birth. An example of this process is found in Mus musculus.
+GO:0017053	A protein complex that possesses activity that prevents or downregulates transcription.
+GO:1902037	Any process that stops, prevents or reduces the frequency, rate or extent of hematopoietic stem cell differentiation.

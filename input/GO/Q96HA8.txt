@@ -1,0 +1,9 @@
+GO:0036211	The covalent alteration of one or more amino acids occurring in proteins, peptides and nascent polypeptides (co-translational, post-translational modifications). Includes the modification of charged tRNAs that are destined to occur in a protein (pre-translation modification).
+GO:0005634	A membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. In most cells, the nucleus contains all of the cell's chromosomes except the organellar chromosomes, and is the site of RNA synthesis and processing. In some species, or in specialized cell types, RNA metabolism or DNA replication may be absent.
+GO:0016787	Catalysis of the hydrolysis of various bonds, e.g. C-O, C-N, C-C, phosphoric anhydride bonds, etc.
+GO:0008418	Catalysis of the reaction: N-terminal L-asparaginyl-[protein] + H+ + H2O = N-terminal L-aspartyl-[protein] + NH4+. This reaction is the deamidation of an N-terminal asparagine residue in a peptide or protein.
+GO:0005515	Binding to a protein.
+GO:0016811	Catalysis of the hydrolysis of any non-peptide carbon-nitrogen bond in a linear amide.
+GO:0005829	The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.
+GO:0070773	Catalysis of the reaction: N-terminal L-glutaminyl-[protein] + H2O = N-terminal L-glutamyl-[protein] + NH3. This reaction is the deamidation of an N-terminal glutamine residue of a protein.
+GO:0005737	The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.

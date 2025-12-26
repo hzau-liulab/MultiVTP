@@ -1,0 +1,21 @@
+GO:1900186	Any process that stops, prevents or reduces the frequency, rate or extent of clathrin-mediated endocytosis.
+GO:0005515	Binding to a protein.
+GO:0016241	Any process that modulates the frequency, rate or extent of macroautophagy.
+GO:0036503	The protein catabolic pathway which targets endoplasmic reticulum (ER)-resident proteins for degradation by the cytoplasmic proteasome. It begins with recognition of the ER-resident protein, includes retrotranslocation (dislocation) of the protein from the ER to the cytosol, protein modifications necessary for correct substrate transfer (e.g. ubiquitination), transport of the protein to the proteasome, and ends with degradation of the protein by the cytoplasmic proteasome.
+GO:0006511	The chemical reactions and pathways resulting in the breakdown of a protein or peptide by hydrolysis of its peptide bonds, initiated by the covalent attachment of a ubiquitin group, or multiple ubiquitin groups, to the protein.
+GO:0140693	Binding and bringing together two or more macromolecules in contact, permitting those molecules to organize as a molecular condensate.
+GO:0005829	The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.
+GO:1904294	Any process that activates or increases the frequency, rate or extent of ERAD pathway.
+GO:0006914	The cellular catabolic process in which cells digest cellular materials, such as organelles and other macromolecular constituents, or non-self materials such as intracellular pathogens. Autophagy serves to provide essential nutrients under conditions of cellular stress; or can remodel intracellular structures during cell differentiation.
+GO:0042802	Binding to an identical protein or proteins.
+GO:0005634	A membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. In most cells, the nucleus contains all of the cell's chromosomes except the organellar chromosomes, and is the site of RNA synthesis and processing. In some species, or in specialized cell types, RNA metabolism or DNA replication may be absent.
+GO:0005886	The membrane surrounding a cell that separates the cell from its external environment. It consists of a phospholipid bilayer and associated proteins.
+GO:0031410	A vesicle found in the cytoplasm of a cell.
+GO:0000045	The formation of a double membrane-bounded structure, the autophagosome, that occurs when a specialized membrane sac, called the isolation membrane, starts to enclose a portion of the cytoplasm.
+GO:2000785	Any process that modulates the frequency, rate or extent of autophagosome assembly.
+GO:1904021	Any process that stops, prevents or reduces the frequency, rate or extent of G protein-coupled receptor internalization.
+GO:0016020	A lipid bilayer along with all the proteins and protein complexes embedded in it and attached to it.
+GO:0031593	Binding to a protein upon poly-ubiquitination of the target protein.
+GO:0051051	Any process that stops, prevents, or reduces the frequency, rate or extent of the directed movement of substances (such as macromolecules, small molecules, ions) into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.
+GO:0005776	A double-membrane-bounded compartment that engulfs endogenous cellular material as well as invading microorganisms to target them to the lytic vacuole/lysosome for degradation as part of macroautophagy.
+GO:0005737	The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.

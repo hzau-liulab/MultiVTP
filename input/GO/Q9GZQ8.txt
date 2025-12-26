@@ -1,0 +1,27 @@
+GO:0031625	Binding to a ubiquitin protein ligase enzyme, any of the E3 proteins.
+GO:0005515	Binding to a protein.
+GO:0000422	The autophagic process in which mitochondria are delivered to a type of vacuole and degraded in response to changing cellular conditions.
+GO:0005829	The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.
+GO:0008429	Binding to a phosphatidylethanolamine, a class of glycerophospholipids in which a phosphatidyl group is esterified to the hydroxyl group of ethanolamine.
+GO:0000421	The lipid bilayer surrounding an autophagosome, a double-membrane-bounded vesicle in which endogenous cellular material is sequestered.
+GO:0005543	Binding to a phospholipid, a class of lipids containing phosphoric acid as a mono- or diester.
+GO:0016236	The autophagic process that proceeds via the formation of an autophagosome.
+GO:0009267	Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of deprivation of nourishment.
+GO:0031966	Either of the lipid bilayers that surround the mitochondrion and form the mitochondrial envelope.
+GO:0006914	The cellular catabolic process in which cells digest cellular materials, such as organelles and other macromolecular constituents, or non-self materials such as intracellular pathogens. Autophagy serves to provide essential nutrients under conditions of cellular stress; or can remodel intracellular structures during cell differentiation.
+GO:0097001	Binding to a ceramide, a class of lipids composed of sphingosine linked to a fatty acid. Ceramides are a major component of cell membranes.
+GO:0097352	Removal of PI3P and Atg8/LC3 after the closure of the phagophore and before the fusion with the endosome/lysosome (e.g. mammals and insects) or vacuole (yeast), and that very likely destabilizes other Atg proteins and thus enables their efficient dissociation and recycling.
+GO:0031410	A vesicle found in the cytoplasm of a cell.
+GO:0005930	The bundle of microtubules and associated proteins that forms the core of cilia (also called flagella) in eukaryotic cells and is responsible for their movements.
+GO:0000045	The formation of a double membrane-bounded structure, the autophagosome, that occurs when a specialized membrane sac, called the isolation membrane, starts to enclose a portion of the cytoplasm.
+GO:0006995	Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of deprivation of nitrogen.
+GO:0016020	A lipid bilayer along with all the proteins and protein complexes embedded in it and attached to it.
+GO:0005856	A cellular structure that forms the internal framework of eukaryotic and prokaryotic cells. The cytoskeleton includes intermediate filaments, microfilaments, microtubules, the microtrabecular lattice, and other structures characterized by a polymeric filamentous nature and long-range order within the cell. The various elements of the cytoskeleton not only serve in the maintenance of cellular shape but also have roles in other cellular functions, including cellular movement, cell division, endocytosis, and movement of organelles.
+GO:0031090	A membrane that is one of the two lipid bilayers of an organelle envelope or the outermost membrane of single membrane bound organelle.
+GO:0005739	A semiautonomous, self replicating organelle that occurs in varying numbers, shapes, and sizes in the cytoplasm of virtually all eukaryotic cells. It is notably the site of tissue respiration.
+GO:0012505	A collection of membranous structures involved in transport within the cell. The main components of the endomembrane system are endoplasmic reticulum, Golgi bodies, vesicles, cell membrane and nuclear envelope. Members of the endomembrane system pass materials through each other or though the use of vesicles.
+GO:0000423	The selective autophagy process in which a mitochondrion is degraded by macroautophagy.
+GO:0008017	Binding to a microtubule, a filament composed of tubulin monomers.
+GO:0005776	A double-membrane-bounded compartment that engulfs endogenous cellular material as well as invading microorganisms to target them to the lytic vacuole/lysosome for degradation as part of macroautophagy.
+GO:0005737	The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.
+GO:0005874	Any of the long, generally straight, hollow tubes of internal diameter 12-15 nm and external diameter 24 nm found in a wide variety of eukaryotic cells; each consists (usually) of 13 protofilaments of polymeric tubulin, staggered in such a manner that the tubulin monomers are arranged in a helical pattern on the microtubular surface, and with the alpha/beta axes of the tubulin subunits parallel to the long axis of the tubule; exist in equilibrium with pool of tubulin monomers and can be rapidly assembled or disassembled in response to physiological stimuli; concerned with force generation, e.g. in the spindle.

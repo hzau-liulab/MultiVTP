@@ -1,0 +1,71 @@
+GO:0051781	Any process that activates or increases the frequency, rate or extent of cell division.
+GO:0021542	The process whose specific outcome is the progression of the dentate gyrus over time, from its formation to the mature structure. The dentate gyrus is one of two interlocking gyri of the hippocampus. It contains granule cells, which project to the pyramidal cells and interneurons of the CA3 region of the ammon gyrus.
+GO:0042246	The regrowth of lost or destroyed tissues.
+GO:0035374	Binding to chondroitin sulfate, a glycosaminoglycan made up of two alternating monosaccharides: D-glucuronic acid (GlcA) and N-acetyl-D-galactosamine (GalNAc).
+GO:0106091	The process of creating an elongation or projection from a glial cell.
+GO:0010667	Any process that decreases the rate or extent of cardiac cell apoptotic process, a form of programmed cell death induced by external or internal signals that trigger the activity of proteolytic caspases whose actions dismantle a cardiac muscle cell and result in its death.
+GO:0010838	Any process that increases the rate, frequency or extent of keratinocyte proliferation. Keratinocyte proliferation is the multiplication or reproduction of keratinocytes, resulting in the expansion of a cell population.
+GO:0005515	Binding to a protein.
+GO:0048477	The complete process of formation and maturation of an ovum or female gamete from a primordial female germ cell. Examples of this process are found in Mus musculus and Drosophila melanogaster.
+GO:0106015	Any process that stops, prevents, or reduces the frequency, rate or extent of the inflammatory response to wounding.
+GO:2001224	Any process that activates or increases the frequency, rate or extent of neuron migration.
+GO:0002232	The movement of an immune cell in response to an external stimulus contributing to an inflammatory response.
+GO:0061036	Any process that increases the rate, frequency, or extent of cartilage development, the process whose specific outcome is the progression of the cartilage over time, from its formation to the mature structure. Cartilage is a connective tissue dominated by extracellular matrix containing collagen type II and large amounts of proteoglycan, particularly chondroitin sulfate.
+GO:0010996	Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an auditory stimulus.
+GO:2000391	Any process that activates or increases the frequency, rate or extent of neutrophil extravasation.
+GO:0002286	The change in morphology and behavior of a mature or immature T cell resulting from exposure to a mitogen, cytokine, chemokine, cellular ligand, or an antigen for which it is specific, leading to the initiation or perpetuation of an immune response.
+GO:0030154	The cellular developmental process in which a relatively unspecialized cell, e.g. embryonic or regenerative cell, acquires specialized structural and/or functional features that characterize a specific cell. Differentiation includes the processes involved in commitment of a cell to a specific fate and its subsequent development to the mature state.
+GO:0001662	An acute behavioral change resulting from a perceived external threat.
+GO:2000179	Any process that activates or increases the frequency, rate or extent of neural precursor cell proliferation.
+GO:0007162	Any process that stops, prevents, or reduces the frequency, rate or extent of cell adhesion.
+GO:0046850	Any process that modulates the frequency, rate or extent of bone remodeling, the processes of bone formation and resorption that combine to maintain skeletal integrity.
+GO:0021766	The progression of the hippocampus over time from its initial formation until its mature state.
+GO:0044849	A type of ovulation cycle, which occurs in most mammalian therian females, where the endometrium is resorbed if pregnancy does not occur.
+GO:0021681	The process whose specific outcome is the progression of the cerebellar granule layer over time, from its formation to the mature structure. The granular layer is the innermost layer of the cerebellar cortex. This layer contains densely packed small neurons, mostly granule cells. Some Golgi cells are found at the outer border. Granule neurons send parallel fibers to the upper molecular layer, where they synapse with Purkinje cell dendrites. Mossy fibers from the pontine nuclei in the white matter synapse with granule cell axons, Golgi cell axons and unipolar brush interneuron axons at cerebellar glomeruli in the granule cell layer.
+GO:1900026	Any process that activates or increases the frequency, rate or extent of substrate adhesion-dependent cell spreading.
+GO:0032330	Any process that modulates the frequency, rate or extent of chondrocyte differentiation.
+GO:0045785	Any process that activates or increases the frequency, rate or extent of cell adhesion.
+GO:0030325	The process whose specific outcome is the progression of the adrenal gland over time, from its formation to the mature structure. This gland can either be a discrete structure located bilaterally above each kidney, or a cluster of cells in the head kidney that perform the functions of the adrenal gland. In either case, this organ consists of two cells types, aminergic chromaffin cells and steroidogenic cortical cells.
+GO:0106016	Any process that activates or increases the frequency, rate or extent of the inflammatory response to wounding.
+GO:0030335	Any process that activates or increases the frequency, rate or extent of cell migration.
+GO:0009410	Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus from a xenobiotic, a compound foreign to the organism exposed to it. It may be synthesized by another organism (like ampicilin) or it can be a synthetic chemical.
+GO:1905555	Any process that activates or increases the frequency, rate or extent of blood vessel branching.
+GO:0007399	The process whose specific outcome is the progression of nervous tissue over time, from its formation to its mature state.
+GO:1905564	Any process that activates or increases the frequency, rate or extent of vascular endothelial cell proliferation.
+GO:0008201	Binding to heparin, a member of a group of glycosaminoglycans found mainly as an intracellular component of mast cells and which consist predominantly of alternating alpha-(1->4)-linked D-galactose and N-acetyl-D-glucosamine-6-sulfate residues.
+GO:0035556	The process in which a signal is passed on to downstream components within the cell, which become activated themselves to further propagate the signal and finally trigger a change in the function or state of the cell.
+GO:1905653	Any process that activates or increases the frequency, rate or extent of artery morphogenesis.
+GO:1904399	Binding to heparan sulfate.
+GO:0090023	Any process that increases the frequency, rate, or extent of neutrophil chemotaxis. Neutrophil chemotaxis is the directed movement of a neutrophil cell, the most numerous polymorphonuclear leukocyte found in the blood, in response to an external stimulus, usually an infection or wounding.
+GO:0032735	Any process that activates or increases the frequency, rate, or extent of interleukin-12 production.
+GO:2000347	Any process that activates or increases the frequency, rate or extent of hepatocyte proliferation.
+GO:0031012	A structure lying external to one or more cells, which provides structural support, biochemical or biomechanical cues for cells or tissues.
+GO:0042995	A prolongation or process extending from a cell, e.g. a flagellum or axon.
+GO:0043524	Any process that stops, prevents, or reduces the frequency, rate or extent of cell death by apoptotic process in neurons.
+GO:0008083	The function that stimulates a cell to grow or proliferate. Most growth factors have other actions besides the induction of cell growth or proliferation.
+GO:0071673	Any process that activates or increases the frequency, rate, or extent of smooth muscle cell chemotaxis.
+GO:1903039	Any process that activates or increases the frequency, rate or extent of leukocyte cell-cell adhesion.
+GO:0010976	Any process that increases the rate, frequency or extent of neuron projection development. Neuron projection development is the process whose specific outcome is the progression of a neuron projection over time, from its formation to the mature structure. A neuron projection is any process extending from a neural cell, such as axons or dendrites (collectively called neurites).
+GO:1904036	Any process that stops, prevents or reduces the frequency, rate or extent of epithelial cell apoptotic process.
+GO:0090090	Any process that decreases the rate, frequency, or extent of the Wnt signaling pathway through beta-catenin, the series of molecular signals initiated by binding of a Wnt protein to a frizzled family receptor on the surface of the target cell, followed by propagation of the signal via beta-catenin, and ending with a change in transcription of target genes.
+GO:0030421	The expulsion of feces from the rectum.
+GO:0050795	Any process that modulates the frequency, rate or extent of behavior, the internally coordinated responses (actions or inactions) of whole living organisms (individuals or groups) to internal or external stimuli.
+GO:0002690	Any process that activates or increases the frequency, rate, or extent of leukocyte chemotaxis.
+GO:0016477	The controlled self-propelled movement of a cell from one site to a destination guided by molecular cues.
+GO:0007614	The memory process that deals with the storage, retrieval and modification of information received a short time (up to about 30 minutes) ago. This type of memory is typically dependent on direct, transient effects of second messenger activation.
+GO:0021987	The progression of the cerebral cortex over time from its initial formation until its mature state. The cerebral cortex is the outer layered region of the telencephalon.
+GO:0007010	A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of cytoskeletal structures.
+GO:0010759	Any process that increases the rate, frequency or extent of macrophage chemotaxis. Macrophage chemotaxis is the movement of a macrophage in response to an external stimulus.
+GO:0007165	The cellular process in which a signal is conveyed to trigger a change in the activity or state of a cell. Signal transduction begins with reception of a signal (e.g. a ligand binding to a receptor or receptor activation by a stimulus such as light), or for signal transduction in the absence of ligand, signal-withdrawal or the activity of a constitutively active receptor. Signal transduction ends with regulation of a downstream cellular process, e.g. regulation of transcription or regulation of a metabolic process. Signal transduction covers signaling from receptors located on the surface of the cell and signaling via molecules located within the cell. For signaling between cells, signal transduction is restricted to events at and within the receiving cell.
+GO:0045590	Any process that stops, prevents, or reduces the rate of differentiation of regulatory T cells.
+GO:0048714	Any process that activates or increases the frequency, rate or extent of oligodendrocyte differentiation.
+GO:1904996	Any process that activates or increases the frequency, rate or extent of leukocyte adhesion to vascular endothelial cell.
+GO:0005576	The space external to the outermost structure of a cell. For cells without external protective or external encapsulating structures this refers to space outside of the plasma membrane. This term covers the host cell environment outside an intracellular parasite.
+GO:0045893	Any process that activates or increases the frequency, rate or extent of cellular DNA-templated transcription.
+GO:0010718	Any process that increases the rate, frequency, or extent of epithelial to mesenchymal transition. Epithelial to mesenchymal transition is where an epithelial cell loses apical/basolateral polarity, severs intercellular adhesive junctions, degrades basement membrane components and becomes a migratory mesenchymal cell.
+GO:0051384	Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a glucocorticoid stimulus. Glucocorticoids are hormonal C21 corticosteroids synthesized from cholesterol with the ability to bind with the cortisol receptor and trigger similar effects. Glucocorticoids act primarily on carbohydrate and protein metabolism, and have anti-inflammatory effects.
+GO:0030279	Any process that stops, prevents, or reduces the frequency, rate or extent of ossification, the formation of bone or of a bony substance or the conversion of fibrous tissue or of cartilage into bone or a bony substance.
+GO:0050729	Any process that activates or increases the frequency, rate or extent of the inflammatory response.
+GO:0045582	Any process that activates or increases the frequency, rate or extent of T cell differentiation.
+GO:0009611	Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus indicating damage to the organism.
+GO:0009725	Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a hormone stimulus.

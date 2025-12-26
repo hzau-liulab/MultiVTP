@@ -1,0 +1,30 @@
+GO:0006397	Any process involved in the conversion of a primary mRNA transcript into one or more mature mRNA(s) prior to translation into polypeptide.
+GO:0016787	Catalysis of the hydrolysis of various bonds, e.g. C-O, C-N, C-C, phosphoric anhydride bonds, etc.
+GO:0017070	Binding to a U6 small nuclear RNA (U6 snRNA).
+GO:0005515	Binding to a protein.
+GO:0005688	A ribonucleoprotein complex that contains small nuclear RNA U6, the Lsm2-8 heptameric ring complex, as well as several proteins that are unique to the U6 snRNP, most of which remain associated with the U6 snRNA both while the U6 snRNP is free or assembled into the U4/U6 snRNP or into a series of spliceosomal complexes.
+GO:0005687	A ribonucleoprotein complex that contains small nuclear RNA U4, a heptameric ring of Sm proteins, as well as several proteins that are unique to the U4 snRNP, most of which remain associated with the U4 snRNA both while the U4 snRNP is free or assembled into the U4/U6 snRNP or into a series of spliceosomal complexes.
+GO:0000346	The transcription export (TREX) complex couples transcription elongation by RNA polymerase II to mRNA export. The complex associates with the polymerase and travels with it along the length of the transcribed gene. TREX is composed of the THO transcription elongation complex as well as other proteins that couple THO to mRNA export proteins. The TREX complex is known to be found in a wide range of eukaryotes, including S. cerevisiae and metazoans.
+GO:0006406	The directed movement of mRNA from the nucleus to the cytoplasm.
+GO:0006405	The directed movement of RNA from the nucleus to the cytoplasm.
+GO:0008380	The process of removing sections of the primary RNA transcript to remove sequences not present in the mature form of the RNA and joining the remaining sections to form the mature form of the RNA.
+GO:0003729	Binding to messenger RNA (mRNA), an intermediate molecule between DNA and protein. mRNA includes UTR and coding sequences, but does not contain introns.
+GO:0003724	Unwinding of an RNA helix, driven by ATP hydrolysis.
+GO:0003723	Binding to an RNA molecule or a portion thereof.
+GO:0043008	Binding to a protein or protein complex using energy from ATP hydrolysis.
+GO:0005654	That part of the nuclear content other than the chromosomes or the nucleolus.
+GO:0000166	Binding to a nucleotide, any compound consisting of a nucleoside that is esterified with (ortho)phosphate or an oligophosphate at any hydroxyl group on the ribose or deoxyribose.
+GO:0042802	Binding to an identical protein or proteins.
+GO:0005681	Any of a series of ribonucleoprotein complexes that contain snRNA(s) and small nuclear ribonucleoproteins (snRNPs), and are formed sequentially during the spliceosomal splicing of one or more substrate RNAs, and which also contain the RNA substrate(s) from the initial target RNAs of splicing, the splicing intermediate RNA(s), to the final RNA products. During cis-splicing, the initial target RNA is a single, contiguous RNA transcript, whether mRNA, snoRNA, etc., and the released products are a spliced RNA and an excised intron, generally as a lariat structure. During trans-splicing, there are two initial substrate RNAs, the spliced leader RNA and a pre-mRNA.
+GO:0005634	A membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. In most cells, the nucleus contains all of the cell's chromosomes except the organellar chromosomes, and is the site of RNA synthesis and processing. In some species, or in specialized cell types, RNA metabolism or DNA replication may be absent.
+GO:0051028	The directed movement of mRNA, messenger ribonucleic acid, into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.
+GO:0005524	Binding to ATP, adenosine 5'-triphosphate, a universally important coenzyme and enzyme regulator.
+GO:0016607	A discrete extra-nucleolar subnuclear domain, 20-50 in number, in which splicing factors are seen to be localized by immunofluorescence microscopy.
+GO:0030621	Binding to a U4 small nuclear RNA (U4 snRNA).
+GO:0000398	The joining together of exons from one or more primary transcripts of messenger RNA (mRNA) and the excision of intron sequences, via a spliceosomal mechanism, so that mRNA consisting only of the joined exons is produced.
+GO:0016887	Catalysis of the reaction: ATP + H2O = ADP + H+ phosphate. ATP hydrolysis is used in some reactions as an energy source, for example to catalyze a reaction or drive transport against a concentration gradient.
+GO:0004386	Catalysis of the reaction: ATP + H2O = ADP + phosphate, to drive the unwinding of a DNA or RNA helix.
+GO:0000245	The aggregation, arrangement and bonding together of a spliceosomal complex, a ribonucleoprotein apparatus that catalyzes nuclear mRNA splicing via transesterification reactions.
+GO:0003676	Binding to a nucleic acid.
+GO:0005737	The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.
+GO:0008186	Catalysis of the reaction: ATP + H2O = ADP + phosphate; this reaction requires the presence of RNA, and it drives another reaction.

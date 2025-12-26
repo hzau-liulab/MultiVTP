@@ -1,0 +1,22 @@
+GO:0016787	Catalysis of the hydrolysis of various bonds, e.g. C-O, C-N, C-C, phosphoric anhydride bonds, etc.
+GO:0005515	Binding to a protein.
+GO:0000768	The formation of a syncytium, a mass of cytoplasm containing several nuclei enclosed within a single plasma membrane, by the fusion of the plasma membranes of two or more individual cells.
+GO:0045765	Any process that modulates the frequency, rate or extent of angiogenesis.
+GO:0005829	The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.
+GO:0045766	Any process that activates or increases angiogenesis.
+GO:0060711	The process in which the labyrinthine layer of the placenta progresses, from its formation to its mature state.
+GO:0061564	The progression of an axon over time. Covers axonogenesis (de novo generation of an axon) and axon regeneration (regrowth), as well as processes pertaining to the progression of the axon over time (fasciculation and defasciculation).
+GO:0001938	Any process that activates or increases the rate or extent of endothelial cell proliferation.
+GO:0004180	Catalysis of the hydrolysis of a single C-terminal amino acid residue from a polypeptide chain.
+GO:0004181	Catalysis of the hydrolysis of a single C-terminal amino acid residue from a polypeptide chain by a mechanism in which water acts as a nucleophile, one or two metal ions hold the water molecule in place, and charged amino acid side chains are ligands for the metal ions.
+GO:0060716	The process whose specific outcome is the progression of a blood vessel of the labyrinthine layer of the placenta over time, from its formation to the mature structure. The embryonic vessels grow through the layer to come in close contact with the maternal blood supply.
+GO:0106423	Catalysis of the reaction: C-terminal L-alpha-aminoacyl-L-glutamyl-L-glutamyl-L-tyrosyl-[tubulin] + H2O = C-terminal L-alpha-aminoacyl-L-glutamyl-L-glutamyl-[tubulin] + L-tyrosine.
+GO:0140253	A cellular process in which two or more cells combine together, their plasma membrane fusing, producing a single cell. In some cases, nuclei fuse, producing a polyploid cell, while in other cases, nuclei remain separate, producing a syncytium.
+GO:0005856	A cellular structure that forms the internal framework of eukaryotic and prokaryotic cells. The cytoskeleton includes intermediate filaments, microfilaments, microtubules, the microtrabecular lattice, and other structures characterized by a polymeric filamentous nature and long-range order within the cell. The various elements of the cytoskeleton not only serve in the maintenance of cellular shape but also have roles in other cellular functions, including cellular movement, cell division, endocytosis, and movement of organelles.
+GO:0005576	The space external to the outermost structure of a cell. For cells without external protective or external encapsulating structures this refers to space outside of the plasma membrane. This term covers the host cell environment outside an intracellular parasite.
+GO:0060674	The process whose specific outcome is the progression of a blood vessel of the placenta over time, from its formation to the mature structure.
+GO:0003779	Binding to monomeric or multimeric forms of actin, including actin filaments.
+GO:0008017	Binding to a microtubule, a filament composed of tubulin monomers.
+GO:0006508	The hydrolysis of proteins into smaller polypeptides and/or amino acids by cleavage of their peptide bonds.
+GO:0005737	The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.
+GO:0008233	Catalysis of the hydrolysis of a peptide bond. A peptide bond is a covalent bond formed when the carbon atom from the carboxyl group of one amino acid shares electrons with the nitrogen atom from the amino group of a second amino acid.

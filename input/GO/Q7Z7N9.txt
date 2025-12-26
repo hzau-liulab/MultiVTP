@@ -1,0 +1,8 @@
+GO:0005886	The membrane surrounding a cell that separates the cell from its external environment. It consists of a phospholipid bilayer and associated proteins.
+GO:0101003	The lipid bilayer surrounding a ficolin-1-rich granule.
+GO:0035577	The lipid bilayer surrounding an azurophil granule, a primary lysosomal granule found in neutrophil granulocytes that contains a wide range of hydrolytic enzymes and is released into the extracellular fluid.
+GO:0005515	Binding to a protein.
+GO:0016607	A discrete extra-nucleolar subnuclear domain, 20-50 in number, in which splicing factors are seen to be localized by immunofluorescence microscopy.
+GO:0030667	The lipid bilayer surrounding a secretory granule.
+GO:0016020	A lipid bilayer along with all the proteins and protein complexes embedded in it and attached to it.
+GO:0005730	A small, dense body one or more of which are present in the nucleus of eukaryotic cells. It is rich in RNA and protein, is not bounded by a limiting membrane, and is not seen during mitosis. Its prime function is the transcription of the nucleolar DNA into 45S ribosomal-precursor RNA, the processing of this RNA into 5.8S, 18S, and 28S components of ribosomal RNA, and the association of these components with 5S RNA and proteins synthesized outside the nucleolus. This association results in the formation of ribonucleoprotein precursors; these pass into the cytoplasm and mature into the 40S and 60S subunits of the ribosome.

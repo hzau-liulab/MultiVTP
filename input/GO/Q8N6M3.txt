@@ -1,0 +1,21 @@
+GO:0030730	The process of binding or confining any triester of glycerol such that it is separated from other components of a biological system.
+GO:0005789	The lipid bilayer surrounding the endoplasmic reticulum.
+GO:0016787	Catalysis of the hydrolysis of various bonds, e.g. C-O, C-N, C-C, phosphoric anhydride bonds, etc.
+GO:0005515	Binding to a protein.
+GO:0035356	A homeostatic process involved in the maintenance of a steady state level of triglyceride within a cell.
+GO:0017129	Binding to a triester of glycerol.
+GO:0010945	Catalysis of the reaction: an acyl-coenzyme A or its derivatives + H2O = adenosine 3',5'-bisphosphate + an acyl-4'-phosphopantetheine + 2 H+. This reaction can also use coenzyme A as a substrate.
+GO:0022604	Any process that modulates the frequency, rate or extent of cell morphogenesis. Cell morphogenesis is the developmental process in which the shape of a cell is generated and organized.
+GO:0019915	The accumulation and maintenance in cells or tissues of lipids, compounds soluble in organic solvents but insoluble or sparingly soluble in aqueous solvents. Lipid reserves can be accumulated during early developmental stages for mobilization and utilization at later stages of development.
+GO:0036115	The chemical reactions and pathways resulting in the breakdown of a fatty-acyl-CoA, any derivative of coenzyme A in which the sulfhydryl group is in thiolester linkage with a fatty-acyl group.
+GO:0006629	The chemical reactions and pathways involving lipids, compounds soluble in an organic solvent but not, or sparingly, in an aqueous solvent. Includes fatty acids; neutral fats, other fatty-acid esters, and soaps; long-chain (fatty) alcohols and waxes; sphingoids and other long-chain bases; glycolipids, phospholipids and sphingolipids; and carotenes, polyprenols, sterols, terpenes and other isoprenoids.
+GO:0008654	The chemical reactions and pathways resulting in the formation of a phospholipid, a lipid containing phosphoric acid as a mono- or diester.
+GO:0034389	A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of a lipid particle.
+GO:0140042	A process that results in the assembly, arrangement of constituent parts of a lipid droplet.
+GO:0005783	The irregular network of unit membranes, visible only by electron microscopy, that occurs in the cytoplasm of many eukaryotic cells. The membranes form a complex meshwork of tubular channels, which are often expanded into slitlike cavities called cisternae. The ER takes two forms, rough (or granular), with ribosomes adhering to the outer surface, and smooth (with no ribosomes attached).
+GO:0016020	A lipid bilayer along with all the proteins and protein complexes embedded in it and attached to it.
+GO:0007010	A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of cytoskeletal structures.
+GO:0019992	Binding to a diacylglycerol, a diester of glycerol and two fatty acids.
+GO:0045444	The process in which a relatively unspecialized cell acquires specialized features of an adipocyte, an animal connective tissue cell specialized for the synthesis and storage of fat.
+GO:0006641	The chemical reactions and pathways involving triglyceride, any triester of glycerol. The three fatty acid residues may all be the same or differ in any permutation. Triglycerides are important components of plant oils, animal fats and animal plasma lipoproteins.
+GO:0055088	Any process involved in the maintenance of an internal steady state of lipid within an organism or cell.

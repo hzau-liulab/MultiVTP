@@ -1,0 +1,38 @@
+GO:0005789	The lipid bilayer surrounding the endoplasmic reticulum.
+GO:0031982	Any small, fluid-filled, spherical organelle enclosed by membrane.
+GO:0005515	Binding to a protein.
+GO:0055037	An organelle consisting of a network of tubules that functions in targeting molecules, such as receptors transporters and lipids, to the plasma membrane.
+GO:0005765	The lipid bilayer surrounding the lysosome and separating its contents from the cell cytoplasm.
+GO:0000149	Binding to a SNARE (soluble N-ethylmaleimide-sensitive factor attached protein receptor) protein.
+GO:0005484	Acting as a marker to identify a membrane and interacting selectively with one or more SNAREs on another membrane to mediate membrane fusion.
+GO:0048471	Cytoplasm situated near, or occurring around, the nucleus.
+GO:0061025	The membrane organization process that joins two lipid bilayers to form a single membrane.
+GO:0048280	The joining of the lipid bilayer membrane around a vesicle to the lipid bilayer membrane around the Golgi.
+GO:0008021	A secretory organelle, typically 50 nm in diameter, of presynaptic nerve terminals; accumulates in high concentrations of neurotransmitters and secretes these into the synaptic cleft by fusion with the 'active zone' of the presynaptic plasma membrane.
+GO:0005794	A membrane-bound cytoplasmic organelle of the endomembrane system that further processes the core oligosaccharides (e.g. N-glycans) added to proteins in the endoplasmic reticulum and packages them into membrane-bound vesicles. The Golgi apparatus operates at the intersection of the secretory, lysosomal, and endocytic pathways.
+GO:0006891	The directed movement of substances within the Golgi, mediated by small transport vesicles. These either fuse with the cis-Golgi or with each other to form the membrane stacks known as the cis-Golgi reticulum (network).
+GO:0019869	Binds to and stops, prevents, or reduces the activity of a chloride channel.
+GO:0005829	The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.
+GO:0006904	The initial attachment of a vesicle membrane to a target membrane, mediated by proteins protruding from the membrane of the vesicle and the target membrane, that contributes to exocytosis.
+GO:0005764	A small lytic vacuole that has cell cycle-independent morphology found in most animal cells and that contains a variety of hydrolases, most of which have their maximal activities in the pH range 5-6. The contained enzymes display latency if properly isolated. About 40 different lysosomal hydrolases are known and lysosomes have a great variety of morphologies and functions.
+GO:0016236	The autophagic process that proceeds via the formation of an autophagosome.
+GO:0031093	The volume enclosed by the membrane of the platelet alpha granule.
+GO:0031902	The lipid bilayer surrounding a late endosome.
+GO:0006896	The directed movement of substances from the Golgi to the vacuole.
+GO:0055038	The lipid bilayer surrounding a recycling endosome.
+GO:0097352	Removal of PI3P and Atg8/LC3 after the closure of the phagophore and before the fusion with the endosome/lysosome (e.g. mammals and insects) or vacuole (yeast), and that very likely destabilizes other Atg proteins and thus enables their efficient dissociation and recycling.
+GO:0005768	A vacuole to which materials ingested by endocytosis are delivered.
+GO:0016192	A cellular transport process in which transported substances are moved in membrane-bounded vesicles; transported substances are enclosed in the vesicle lumen or located in the vesicle membrane. The process begins with a step that directs a substance to the forming vesicle, and includes vesicle budding and coating. Vesicles are then targeted to, and fuse with, an acceptor membrane.
+GO:0015031	The directed movement of proteins into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.
+GO:0016020	A lipid bilayer along with all the proteins and protein complexes embedded in it and attached to it.
+GO:0098954	The lipid bilayer surrounding a presynaptic endosome.
+GO:0043025	The portion of a neuron that includes the nucleus, but excludes cell projections such as axons and dendrites.
+GO:0042147	The directed movement of membrane-bounded vesicles from endosomes back to the trans-Golgi network where they are recycled for further rounds of transport.
+GO:0005576	The space external to the outermost structure of a cell. For cells without external protective or external encapsulating structures this refers to space outside of the plasma membrane. This term covers the host cell environment outside an intracellular parasite.
+GO:0012505	A collection of membranous structures involved in transport within the cell. The main components of the endomembrane system are endoplasmic reticulum, Golgi bodies, vesicles, cell membrane and nuclear envelope. Members of the endomembrane system pass materials through each other or though the use of vesicles.
+GO:0012507	The lipid bilayer surrounding a vesicle transporting substances from the endoplasmic reticulum to the Golgi.
+GO:1903076	Any process that modulates the frequency, rate or extent of protein localization to plasma membrane.
+GO:0006886	The directed movement of proteins in a cell, including the movement of proteins between specific compartments or structures within a cell, such as organelles of a eukaryotic cell.
+GO:0031901	The lipid bilayer surrounding an early endosome.
+GO:0005737	The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.
+GO:0031201	A protein complex involved in membrane fusion; a stable ternary complex consisting of a four-helix bundle, usually formed from one R-SNARE and three Q-SNAREs with an ionic layer sandwiched between hydrophobic layers. One well-characterized example is the neuronal SNARE complex formed of synaptobrevin 2, syntaxin 1a, and SNAP-25.

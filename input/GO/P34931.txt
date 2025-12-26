@@ -1,0 +1,24 @@
+GO:0031625	Binding to a ubiquitin protein ligase enzyme, any of the E3 proteins.
+GO:0005515	Binding to a protein.
+GO:0072562	A phospholipid microvesicle that is derived from any of several cell types, such as platelets, blood cells, endothelial cells, or others, and contains membrane receptors as well as other proteins characteristic of the parental cell. Microparticles are heterogeneous in size, and are characterized as microvesicles free of nucleic acids.
+GO:0005829	The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.
+GO:0007339	The process in which the sperm binds to the zona pellucida glycoprotein layer of the egg. The process begins with the attachment of the sperm plasma membrane to the zona pellucida and includes attachment of the acrosome inner membrane to the zona pellucida after the acrosomal reaction takes place.
+GO:0002199	A multisubunit complex comprising the chaperonin-containing T-complex and several other components involved in mediating sperm-oocyte Interaction.
+GO:0006457	The process of assisting in the covalent and noncovalent assembly of single chain polypeptides or multisubunit complexes into the correct tertiary structure.
+GO:0005654	That part of the nuclear content other than the chromosomes or the nucleolus.
+GO:0000166	Binding to a nucleotide, any compound consisting of a nucleoside that is esterified with (ortho)phosphate or an oligophosphate at any hydroxyl group on the ribose or deoxyribose.
+GO:0031072	Binding to a heat shock protein, a protein synthesized or activated in response to heat shock.
+GO:1903955	Any process that activates or increases the frequency, rate or extent of protein targeting to mitochondrion.
+GO:0005634	A membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. In most cells, the nucleus contains all of the cell's chromosomes except the organellar chromosomes, and is the site of RNA synthesis and processing. In some species, or in specialized cell types, RNA metabolism or DNA replication may be absent.
+GO:0005886	The membrane surrounding a cell that separates the cell from its external environment. It consists of a phospholipid bilayer and associated proteins.
+GO:0006950	Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a disturbance in organismal or cellular homeostasis, usually, but not necessarily, exogenous (e.g. temperature, humidity, ionizing radiation).
+GO:0005524	Binding to ATP, adenosine 5'-triphosphate, a universally important coenzyme and enzyme regulator.
+GO:0051082	Binding to an unfolded protein.
+GO:0006986	Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an unfolded protein stimulus.
+GO:0016887	Catalysis of the reaction: ATP + H2O = ADP + H+ phosphate. ATP hydrolysis is used in some reactions as an energy source, for example to catalyze a reaction or drive transport against a concentration gradient.
+GO:0140662	Binding to a protein or a protein-containing complex to assist the protein folding process, driven by ATP hydrolysis.
+GO:0044183	Binding to a protein or a protein-containing complex to assist the protein folding process.
+GO:0044297	The portion of a cell bearing surface projections such as axons, dendrites, cilia, or flagella that includes the nucleus, but excludes all cell projections.
+GO:0008180	A protein complex that catalyzes the deneddylation of proteins, including the cullin component of SCF ubiquitin E3 ligase; deneddylation increases the activity of cullin family ubiquitin ligases. The signalosome is involved in many regulatory process, including some which control development, in many species; also regulates photomorphogenesis in plants; in many species its subunits are highly similar to those of the proteasome.
+GO:0005737	The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.
+GO:0042026	The process carried out by a cell that restores the biological activity of an unfolded or misfolded protein, using helper proteins such as chaperones.

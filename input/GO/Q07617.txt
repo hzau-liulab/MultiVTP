@@ -1,0 +1,12 @@
+GO:0005929	A specialized eukaryotic organelle that consists of a filiform extrusion of the cell surface and of some cytoplasmic parts. Each cilium is largely bounded by an extrusion of the cytoplasmic (plasma) membrane, and contains a regular longitudinal array of microtubules, anchored to a basal body.
+GO:0016787	Catalysis of the hydrolysis of various bonds, e.g. C-O, C-N, C-C, phosphoric anhydride bonds, etc.
+GO:0005525	Binding to GTP, guanosine triphosphate.
+GO:0005829	The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.
+GO:0007338	The union of male and female gametes to form a zygote.
+GO:0050821	Any process involved in maintaining the structure and integrity of a protein and preventing it from degradation or aggregation.
+GO:0120293	An aggregation of axonemal dyneins, their specific assembly factors, and broadly-acting chaperones that is located in the cytoplasm.
+GO:0101031	A protein complex required for the non-covalent folding or unfolding, maturation, stabilization or assembly or disassembly of macromolecular structures. Usually active during or immediately after completion of translation. Many chaperone complexes contain heat shock proteins.
+GO:0070286	The aggregation, arrangement and bonding together of a set of components to form an axonemal dynein complex, a dynein complex found in eukaryotic cilia and flagella, in which the motor domain heads interact with adjacent microtubules to generate a sliding force which is converted to a bending motion.
+GO:0005737	The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.
+GO:0005654	That part of the nuclear content other than the chromosomes or the nucleolus.
+GO:0000166	Binding to a nucleotide, any compound consisting of a nucleoside that is esterified with (ortho)phosphate or an oligophosphate at any hydroxyl group on the ribose or deoxyribose.

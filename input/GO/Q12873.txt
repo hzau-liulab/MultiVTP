@@ -1,0 +1,34 @@
+GO:0006325	The assembly or remodeling of chromatin composed of DNA complexed with histones, other associated proteins, and sometimes RNA.
+GO:0016787	Catalysis of the hydrolysis of various bonds, e.g. C-O, C-N, C-C, phosphoric anhydride bonds, etc.
+GO:0005515	Binding to a protein.
+GO:0003677	Any molecular function by which a gene product interacts selectively and non-covalently with DNA (deoxyribonucleic acid).
+GO:0005813	A structure comprised of a core structure (in most organisms, a pair of centrioles) and peripheral material from which a microtubule-based structure, such as a spindle apparatus, is organized. Centrosomes occur close to the nucleus during interphase in many eukaryotic cells, though in animal cells it changes continually during the cell-division cycle.
+GO:0007051	A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of the spindle, the array of microtubules and associated molecules that forms between opposite poles of a eukaryotic cell during DNA segregation and serves to move the duplicated chromosomes apart.
+GO:0003682	Binding to chromatin, the network of fibers of DNA, protein, and sometimes RNA, that make up the chromosomes of the eukaryotic nucleus during interphase.
+GO:0042393	Binding to a histone, any of a group of water-soluble proteins found in association with the DNA of eukaryotic or archaeal chromosomes. They are involved in the condensation and coiling of chromosomes during cell division and have also been implicated in gene regulation and DNA replication. They may be chemically modified (methylated, acetlyated and others) to regulate gene transcription.
+GO:0042659	Any process that mediates the adoption of a specific fate by a cell.
+GO:0008270	Binding to a zinc ion (Zn).
+GO:0003723	Binding to an RNA molecule or a portion thereof.
+GO:0005654	That part of the nuclear content other than the chromosomes or the nucleolus.
+GO:0000166	Binding to a nucleotide, any compound consisting of a nucleoside that is esterified with (ortho)phosphate or an oligophosphate at any hydroxyl group on the ribose or deoxyribose.
+GO:2000736	Any process that modulates the frequency, rate or extent of stem cell differentiation.
+GO:0005634	A membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. In most cells, the nucleus contains all of the cell's chromosomes except the organellar chromosomes, and is the site of RNA synthesis and processing. In some species, or in specialized cell types, RNA metabolism or DNA replication may be absent.
+GO:0046872	Binding to a metal ion.
+GO:0000976	Binding to a specific sequence of DNA that is part of a regulatory region that controls transcription of that section of the DNA. The transcribed region might be described as a gene, cistron, or operon.
+GO:0016605	A class of nuclear body; they react against SP100 auto-antibodies (PML, promyelocytic leukemia); cells typically contain 10-30 PML bodies per nucleus; alterations in the localization of PML bodies occurs after viral infection.
+GO:0005524	Binding to ATP, adenosine 5'-triphosphate, a universally important coenzyme and enzyme regulator.
+GO:0006338	A dynamic process of chromatin reorganization resulting in changes to chromatin structure. These changes allow DNA metabolic processes such as transcriptional regulation, DNA recombination, DNA repair, and DNA replication.
+GO:0140658	An activity, driven by ATP hydrolysis, that modulates the contacts between histones and DNA, resulting in a change in chromosome architecture within the nucleosomal array, leading to chromatin remodeling.
+GO:0016581	An approximately 2 MDa multi-subunit complex that exhibits ATP-dependent chromatin remodeling activity in addition to histone deacetylase (HDAC) activity, and has been shown to establish transcriptional repression of a number of target genes in vertebrates, invertebrates and fungi. Amongst its subunits, the NuRD complex contains histone deacetylases, histone binding proteins and Mi-2-like proteins.
+GO:0007098	The cell cycle process in which centrosome duplication and separation takes place. The centrosome cycle can operate with a considerable degree of independence from other processes of the cell cycle.
+GO:0016887	Catalysis of the reaction: ATP + H2O = ADP + H+ phosphate. ATP hydrolysis is used in some reactions as an energy source, for example to catalyze a reaction or drive transport against a concentration gradient.
+GO:0004386	Catalysis of the reaction: ATP + H2O = ADP + phosphate, to drive the unwinding of a DNA or RNA helix.
+GO:0045892	Any process that stops, prevents, or reduces the frequency, rate or extent of cellular DNA-templated transcription.
+GO:0034451	A small (70-100 nm) cytoplasmic granule that contains a number of centrosomal proteins; centriolar satellites traffic toward microtubule minus ends and are enriched near the centrosome.
+GO:0005856	A cellular structure that forms the internal framework of eukaryotic and prokaryotic cells. The cytoskeleton includes intermediate filaments, microfilaments, microtubules, the microtrabecular lattice, and other structures characterized by a polymeric filamentous nature and long-range order within the cell. The various elements of the cytoskeleton not only serve in the maintenance of cellular shape but also have roles in other cellular functions, including cellular movement, cell division, endocytosis, and movement of organelles.
+GO:0006355	Any process that modulates the frequency, rate or extent of cellular DNA-templated transcription.
+GO:0045893	Any process that activates or increases the frequency, rate or extent of cellular DNA-templated transcription.
+GO:0000122	Any process that stops, prevents, or reduces the frequency, rate or extent of transcription mediated by RNA polymerase II.
+GO:0005737	The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.
+GO:0000785	The ordered and organized complex of DNA, protein, and sometimes RNA, that forms the chromosome.
+GO:0005730	A small, dense body one or more of which are present in the nucleus of eukaryotic cells. It is rich in RNA and protein, is not bounded by a limiting membrane, and is not seen during mitosis. Its prime function is the transcription of the nucleolar DNA into 45S ribosomal-precursor RNA, the processing of this RNA into 5.8S, 18S, and 28S components of ribosomal RNA, and the association of these components with 5S RNA and proteins synthesized outside the nucleolus. This association results in the formation of ribonucleoprotein precursors; these pass into the cytoplasm and mature into the 40S and 60S subunits of the ribosome.

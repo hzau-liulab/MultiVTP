@@ -1,0 +1,23 @@
+GO:0005515	Binding to a protein.
+GO:0032868	Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an insulin stimulus. Insulin is a polypeptide hormone produced by the islets of Langerhans of the pancreas in mammals, and by the homologous organs of other organisms.
+GO:0010467	The process in which a gene's sequence is converted into a mature gene product (protein or RNA). This includes the production of an RNA transcript and its processing, as well as translation and maturation for protein-coding genes.
+GO:0005158	Binding to an insulin receptor.
+GO:0120162	Any process that activates or increases the frequency, rate or extent of cold-induced thermogenesis.
+GO:0030178	Any process that stops, prevents, or reduces the frequency, rate or extent of the Wnt signaling pathway.
+GO:0005829	The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.
+GO:0030159	The binding activity of a molecule that provides a physical support for the assembly of a multiprotein receptor signaling complex.
+GO:0030674	The binding activity of a protein that brings together two or more macromolecules in contact, permitting those molecules to function in a coordinated way. The adaptor can bring together two proteins, or a protein and another macromolecule such as a lipid or a nucleic acid.
+GO:1904738	The orderly movement of a vascular associated smooth muscle cell from one site to another.
+GO:0008286	The series of molecular signals generated as a consequence of the insulin receptor binding to insulin.
+GO:0045719	Any process that stops, prevents, or reduces the frequency, rate or extent of the chemical reactions and pathways resulting in the formation of glycogen.
+GO:0042802	Binding to an identical protein or proteins.
+GO:0005886	The membrane surrounding a cell that separates the cell from its external environment. It consists of a phospholipid bilayer and associated proteins.
+GO:0048009	The series of molecular signals initiated by a ligand binding to an insulin-like growth factor receptor on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription.
+GO:0030949	Any process that activates or increases the frequency, rate or extent of vascular endothelial growth factor receptor signaling pathway activity.
+GO:0046627	Any process that stops, prevents, or reduces the frequency, rate or extent of insulin receptor signaling.
+GO:0007165	The cellular process in which a signal is conveyed to trigger a change in the activity or state of a cell. Signal transduction begins with reception of a signal (e.g. a ligand binding to a receptor or receptor activation by a stimulus such as light), or for signal transduction in the absence of ligand, signal-withdrawal or the activity of a constitutively active receptor. Signal transduction ends with regulation of a downstream cellular process, e.g. regulation of transcription or regulation of a metabolic process. Signal transduction covers signaling from receptors located on the surface of the cell and signaling via molecules located within the cell. For signaling between cells, signal transduction is restricted to events at and within the receiving cell.
+GO:0070371	A MAPK cascade containing at least the ERK1 or ERK2 MAP kinases. It starts with the activation of a MAP3K, and the consecutive activation of a MPK2K and of ERK1 or ERK2. The cascade can also contain an additional tier: the upstream MAP4K. The kinases in each tier phosphorylate and activate the kinase in the downstream tier. The ERK1/ERK2 cascade is activated by mitogens, growth factors, G protein-coupled receptors, and results in cellular responses such as cell proliferation, cell differentiation and development.
+GO:0046325	Any process that stops, prevents, or reduces the frequency, rate or extent of the import of the hexose monosaccharide glucose into a cell or organelle.
+GO:0042327	Any process that activates or increases the frequency, rate or extent of addition of phosphate groups to a molecule.
+GO:0032991	A stable assembly of two or more macromolecules, i.e. proteins, nucleic acids, carbohydrates or lipids, in which at least one component is a protein and the constituent parts function together.
+GO:0005737	The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.

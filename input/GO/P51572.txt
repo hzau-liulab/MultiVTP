@@ -1,0 +1,29 @@
+GO:0005789	The lipid bilayer surrounding the endoplasmic reticulum.
+GO:0042288	Binding to a major histocompatibility complex class I molecule; a set of molecules displayed on cell surfaces that are responsible for lymphocyte recognition and antigen presentation.
+GO:1904154	Any process that activates or increases the frequency, rate or extent of retrograde protein transport, ER to cytosol.
+GO:0005515	Binding to a protein.
+GO:0034976	Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stress acting at the endoplasmic reticulum. ER stress usually results from the accumulation of unfolded or misfolded proteins in the ER lumen.
+GO:0030136	A vesicle with a coat formed of clathrin connected to the membrane via one of the clathrin adaptor complexes.
+GO:0098553	The side (leaflet) of the plasma membrane that faces the lumen.
+GO:0070973	A process in which a protein is transported to, or maintained in, a location at an endoplasmic reticulum exit site.
+GO:2000060	Any process that activates or increases the frequency, rate or extent of ubiquitin-dependent protein catabolic process.
+GO:0006915	A programmed cell death process which begins when a cell receives an internal (e.g. DNA damage) or external signal (e.g. an extracellular death ligand), and proceeds through a series of biochemical events (signaling pathway phase) which trigger an execution phase. The execution phase is the last step of an apoptotic process, and is typically characterized by rounding-up of the cell, retraction of pseudopodes, reduction of cellular volume (pyknosis), chromatin condensation, nuclear fragmentation (karyorrhexis), plasma membrane blebbing and fragmentation of the cell into apoptotic bodies. When the execution phase is completed, the cell has died.
+GO:0044877	Binding to a macromolecular complex.
+GO:0000139	The lipid bilayer surrounding any of the compartments of the Golgi apparatus.
+GO:0005829	The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.
+GO:0032580	The lipid bilayer surrounding any of the thin, flattened compartments that form the central portion of the Golgi complex.
+GO:0006888	The directed movement of substances from the endoplasmic reticulum (ER) to the Golgi, mediated by COP II vesicles. Small COP II coated vesicles form from the ER and then fuse directly with the cis-Golgi. Larger structures are transported along microtubules to the cis-Golgi.
+GO:1904294	Any process that activates or increases the frequency, rate or extent of ERAD pathway.
+GO:0007283	The developmental process by which male germ line stem cells self renew or give rise to successive cell types resulting in the development of a spermatozoa.
+GO:2001244	Any process that activates or increases the frequency, rate or extent of intrinsic apoptotic signaling pathway.
+GO:0005886	The membrane surrounding a cell that separates the cell from its external environment. It consists of a phospholipid bilayer and associated proteins.
+GO:0006626	The process of directing proteins towards and into the mitochondrion, usually mediated by mitochondrial proteins that recognize signals contained within the imported protein.
+GO:0016192	A cellular transport process in which transported substances are moved in membrane-bounded vesicles; transported substances are enclosed in the vesicle lumen or located in the vesicle membrane. The process begins with a step that directs a substance to the forming vesicle, and includes vesicle budding and coating. Vesicles are then targeted to, and fuse with, an acceptor membrane.
+GO:0015031	The directed movement of proteins into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.
+GO:0005811	An intracellular non-membrane-bounded organelle comprising a matrix of coalesced lipids surrounded by a phospholipid monolayer. May include associated proteins.
+GO:0005783	The irregular network of unit membranes, visible only by electron microscopy, that occurs in the cytoplasm of many eukaryotic cells. The membranes form a complex meshwork of tubular channels, which are often expanded into slitlike cavities called cisternae. The ER takes two forms, rough (or granular), with ribosomes adhering to the outer surface, and smooth (with no ribosomes attached).
+GO:0016020	A lipid bilayer along with all the proteins and protein complexes embedded in it and attached to it.
+GO:0033116	The lipid bilayer surrounding any of the compartments of the endoplasmic reticulum (ER)-Golgi intermediate compartment system.
+GO:0006886	The directed movement of proteins in a cell, including the movement of proteins between specific compartments or structures within a cell, such as organelles of a eukaryotic cell.
+GO:0097038	The portion of endoplasmic reticulum, the intracellular network of tubules and cisternae, that occurs near the nucleus. The lumen of the perinuclear endoplasmic reticulum is contiguous with the nuclear envelope lumen (also called perinuclear space), the region between the inner and outer nuclear membranes.
+GO:0044233	A zone of apposition between endoplasmic-reticulum and mitochondrial membranes, structured by bridging complexes. These contact sites are thought to facilitate inter-organelle calcium and phospholipid exchange.

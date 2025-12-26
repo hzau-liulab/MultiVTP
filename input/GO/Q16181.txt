@@ -1,0 +1,39 @@
+GO:0097227	The ring-like, filamentous structure located at the distal end of the midpiece of the sperm flagellum; the annulus is thought to form a diffusion barrier between the midpiece and the principal piece and serve as a stabilizing structure for tail rigidity.
+GO:0005525	Binding to GTP, guanosine triphosphate.
+GO:0005515	Binding to a protein.
+GO:0070062	A vesicle that is released into the extracellular region by fusion of the limiting endosomal membrane of a multivesicular body with the plasma membrane. Extracellular exosomes, also simply called exosomes, have a diameter of about 40-100 nm.
+GO:0000776	A multisubunit complex that is located at the centromeric region of DNA and provides an attachment point for the spindle microtubules.
+GO:0030154	The cellular developmental process in which a relatively unspecialized cell, e.g. embryonic or regenerative cell, acquires specialized structural and/or functional features that characterize a specific cell. Differentiation includes the processes involved in commitment of a cell to a specific fate and its subsequent development to the mature state.
+GO:0005198	The action of a molecule that contributes to the structural integrity of a complex.
+GO:0001725	A contractile actin filament bundle that consists of short actin filaments with alternating polarity, cross-linked by alpha-actinin and possibly other actin bundling proteins, and with myosin present in a periodic distribution along the fiber.
+GO:0031514	A cilium which may have a variable arrangement of axonemal microtubules and also contains molecular motors. It may beat with a whip-like pattern that promotes cell motility or transport of fluids and other cells across a cell surface, such as on epithelial cells that line the lumenal ducts of various tissues; or they may display a distinct twirling motion that directs fluid flow asymmetrically across the cellular surface to affect asymmetric body plan organization. Motile cilia can be found in single as well as multiple copies per cell.
+GO:0005829	The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.
+GO:0005940	A tight ring-shaped structure that forms in the division plane at the site of cytokinesis; composed of members of the conserved family of filament-forming proteins called septins as well as septin-associated proteins. This type of septin structure is observed at the bud neck of budding fungal cells, at the site of cell division in animal cells, at the junction between the mother cell and a pseudohyphal projection, and also within hyphae of filamentous fungi at sites where a septum will form.
+GO:0003924	Catalysis of the reaction: GTP + H2O = GDP + H+ + phosphate.
+GO:0061640	A cytokinesis that involves the function of a set of proteins that are part of the microfilament or microtubule cytoskeleton.
+GO:0007283	The developmental process by which male germ line stem cells self renew or give rise to successive cell types resulting in the development of a spermatozoa.
+GO:0016324	The region of the plasma membrane located at the apical end of the cell.
+GO:0032154	The cleavage furrow is a plasma membrane invagination at the cell division site. The cleavage furrow begins as a shallow groove and eventually deepens to divide the cytoplasm.
+GO:0032153	The eventual plane of cell division (also known as cell cleavage or cytokinesis) in a dividing cell. In Eukaryotes, the cleavage apparatus, composed of septin structures and the actomyosin contractile ring, forms along this plane, and the mitotic, or meiotic, spindle is aligned perpendicular to the division plane. In bacteria, the cell division site is generally located at mid-cell and is the site at which the cytoskeletal structure, the Z-ring, assembles.
+GO:0000775	The region of a chromosome that includes the centromeric DNA and associated proteins. In monocentric chromosomes, this region corresponds to a single area of the chromosome, whereas in holocentric chromosomes, it is evenly distributed along the chromosome.
+GO:0030496	A thin cytoplasmic bridge formed between daughter cells at the end of cytokinesis. The midbody forms where the contractile ring constricts, and may persist for some time before finally breaking to complete cytokinesis.
+GO:0060090	The binding activity of a molecule that brings together two or more molecules through a selective, non-covalent, often stoichiometric interaction, permitting those molecules to function in a coordinated way.
+GO:0000166	Binding to a nucleotide, any compound consisting of a nucleoside that is esterified with (ortho)phosphate or an oligophosphate at any hydroxyl group on the ribose or deoxyribose.
+GO:0042802	Binding to an identical protein or proteins.
+GO:0042995	A prolongation or process extending from a cell, e.g. a flagellum or axon.
+GO:0005634	A membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. In most cells, the nucleus contains all of the cell's chromosomes except the organellar chromosomes, and is the site of RNA synthesis and processing. In some species, or in specialized cell types, RNA metabolism or DNA replication may be absent.
+GO:0008104	Any process in which a protein is transported to, or maintained in, a specific location.
+GO:0005930	The bundle of microtubules and associated proteins that forms the core of cilia (also called flagella) in eukaryotic cells and is responsible for their movements.
+GO:0005694	A structure composed of a very long molecule of DNA and associated proteins (e.g. histones) that carries hereditary information.
+GO:0031105	A protein complex containing septins. Typically, these complexes contain multiple septins and are oligomeric.
+GO:0045296	Binding to cadherin, a type I membrane protein involved in cell adhesion.
+GO:0005856	A cellular structure that forms the internal framework of eukaryotic and prokaryotic cells. The cytoskeleton includes intermediate filaments, microfilaments, microtubules, the microtrabecular lattice, and other structures characterized by a polymeric filamentous nature and long-range order within the cell. The various elements of the cytoskeleton not only serve in the maintenance of cellular shape but also have roles in other cellular functions, including cellular movement, cell division, endocytosis, and movement of organelles.
+GO:0005929	A specialized eukaryotic organelle that consists of a filiform extrusion of the cell surface and of some cytoplasmic parts. Each cilium is largely bounded by an extrusion of the cytoplasmic (plasma) membrane, and contains a regular longitudinal array of microtubules, anchored to a basal body.
+GO:0097730	A cilium which may have a variable array of axonemal microtubules but does not contain molecular motors.
+GO:0060271	The assembly of a cilium, a specialized eukaryotic organelle that consists of a filiform extrusion of the cell surface. Each cilium is bounded by an extrusion of the cytoplasmic membrane, and contains a regular longitudinal array of microtubules, anchored basally in a centriole.
+GO:0051301	The process resulting in division and partitioning of components of a cell to form more cells; may or may not be accompanied by the physical separation of a cell into distinct, individually membrane-bounded daughter cells.
+GO:1902857	Any process that activates or increases the frequency, rate or extent of non-motile cilium assembly.
+GO:0005819	The array of microtubules and associated molecules that forms between opposite poles of a eukaryotic cell during mitosis or meiosis and serves to move the duplicated chromosomes apart.
+GO:0005737	The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.
+GO:0015630	The part of the cytoskeleton (the internal framework of a cell) composed of microtubules and associated proteins.
+GO:0016476	Any process that modulates the surface configuration of an embryonic cell.

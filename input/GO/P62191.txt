@@ -1,0 +1,17 @@
+GO:0036402	Catalysis of the reaction: ATP + H2O = ADP + phosphate, which promotes unfolding of protein substrates, and channel opening of the core proteasome.
+GO:0005634	A membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. In most cells, the nucleus contains all of the cell's chromosomes except the organellar chromosomes, and is the site of RNA synthesis and processing. In some species, or in specialized cell types, RNA metabolism or DNA replication may be absent.
+GO:0005829	The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.
+GO:0005515	Binding to a protein.
+GO:0043161	The chemical reactions and pathways resulting in the breakdown of a protein or peptide by hydrolysis of its peptide bonds, initiated by the covalent attachment of ubiquitin, and mediated by the proteasome.
+GO:0000502	A large multisubunit complex which catalyzes protein degradation, found in eukaryotes, archaea and some bacteria. In eukaryotes, this complex consists of the barrel shaped proteasome core complex and one or two associated proteins or complexes that act in regulating entry into or exit from the core.
+GO:0022624	A protein complex, that caps one or both ends of the proteasome core complex and regulates entry into, or exit from, the proteasome core complex.
+GO:0003723	Binding to an RNA molecule or a portion thereof.
+GO:0005838	A multisubunit complex, which caps one or both ends of the proteasome core complex. This complex recognizes and unfolds ubiquitinated proteins, and translocates them to the proteasome core complex.
+GO:1901800	Any process that activates or increases the frequency, rate or extent of proteasomal protein catabolic process.
+GO:0005524	Binding to ATP, adenosine 5'-triphosphate, a universally important coenzyme and enzyme regulator.
+GO:0008540	The subcomplex of the proteasome regulatory particle that directly associates with the proteasome core complex.
+GO:0016020	A lipid bilayer along with all the proteins and protein complexes embedded in it and attached to it.
+GO:0005737	The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.
+GO:0016887	Catalysis of the reaction: ATP + H2O = ADP + H+ phosphate. ATP hydrolysis is used in some reactions as an energy source, for example to catalyze a reaction or drive transport against a concentration gradient.
+GO:0005654	That part of the nuclear content other than the chromosomes or the nucleolus.
+GO:0000166	Binding to a nucleotide, any compound consisting of a nucleoside that is esterified with (ortho)phosphate or an oligophosphate at any hydroxyl group on the ribose or deoxyribose.

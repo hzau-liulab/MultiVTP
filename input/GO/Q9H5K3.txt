@@ -1,0 +1,18 @@
+GO:0016301	Catalysis of the transfer of a phosphate group, usually from ATP, to a substrate molecule.
+GO:0005789	The lipid bilayer surrounding the endoplasmic reticulum.
+GO:0019233	The series of events required for an organism to receive a painful stimulus, convert it to a molecular signal, and recognize and characterize the signal. Pain is medically defined as the physical sensation of discomfort or distress caused by injury or illness, so can hence be described as a harmful stimulus which signals current (or impending) tissue damage. Pain may come from extremes of temperature, mechanical damage, electricity or from noxious chemical substances. This is a neurological process.
+GO:0005515	Binding to a protein.
+GO:0019200	Catalysis of the transfer of a phosphate group, usually from ATP, to a carbohydrate substrate molecule.
+GO:0006493	A protein glycosylation process in which a carbohydrate or carbohydrate derivative unit is added to a protein via the hydroxyl group of peptidyl-serine, peptidyl-threonine, peptidyl-hydroxylysine, or peptidyl-hydroxyproline, or via the phenol group of peptidyl-tyrosine, forming an O-glycan.
+GO:0046835	The process of introducing a phosphate group into a carbohydrate, any organic compound based on the general formula Cx(H2O)y.
+GO:0050905	Any process pertaining to the functions of the nervous and muscular systems of an organism.
+GO:0005524	Binding to ATP, adenosine 5'-triphosphate, a universally important coenzyme and enzyme regulator.
+GO:0016773	Catalysis of the transfer of a phosphorus-containing group from one compound (donor) to an alcohol group (acceptor).
+GO:0016772	Catalysis of the transfer of a phosphorus-containing group from one compound (donor) to another (acceptor).
+GO:0007611	The acquisition and processing of information and/or the storage and retrieval of this information over time.
+GO:0005783	The irregular network of unit membranes, visible only by electron microscopy, that occurs in the cytoplasm of many eukaryotic cells. The membranes form a complex meshwork of tubular channels, which are often expanded into slitlike cavities called cisternae. The ER takes two forms, rough (or granular), with ribosomes adhering to the outer surface, and smooth (with no ribosomes attached).
+GO:0004672	Catalysis of the phosphorylation of an amino acid residue in a protein, usually according to the reaction: a protein + ATP = a phosphoprotein + ADP.
+GO:0016740	Catalysis of the transfer of a group, e.g. a methyl group, glycosyl group, acyl group, phosphorus-containing, or other groups, from one compound (generally regarded as the donor) to another compound (generally regarded as the acceptor). Transferase is the systematic name for any enzyme of EC class 2.
+GO:0016020	A lipid bilayer along with all the proteins and protein complexes embedded in it and attached to it.
+GO:0007420	The process whose specific outcome is the progression of the brain over time, from its formation to the mature structure. Brain development begins with patterning events in the neural tube and ends with the mature structure that is the center of thought and emotion. The brain is responsible for the coordination and control of bodily activities and the interpretation of information from the senses (sight, hearing, smell, etc.).
+GO:0000166	Binding to a nucleotide, any compound consisting of a nucleoside that is esterified with (ortho)phosphate or an oligophosphate at any hydroxyl group on the ribose or deoxyribose.

@@ -1,0 +1,25 @@
+GO:0016787	Catalysis of the hydrolysis of various bonds, e.g. C-O, C-N, C-C, phosphoric anhydride bonds, etc.
+GO:0070062	A vesicle that is released into the extracellular region by fusion of the limiting endosomal membrane of a multivesicular body with the plasma membrane. Extracellular exosomes, also simply called exosomes, have a diameter of about 40-100 nm.
+GO:0046654	The chemical reactions and pathways resulting in the formation of tetrahydrofolate, 5,6,7,8-tetrahydrofolic acid, a folate derivative bearing additional hydrogens on the pterin group.
+GO:0042803	Binding to an identical protein to form a homodimer.
+GO:0006189	The chemical reactions and pathways resulting in the formation of IMP, inosine monophosphate, by the stepwise assembly of a purine ring on ribose 5-phosphate.
+GO:0016740	Catalysis of the transfer of a group, e.g. a methyl group, glycosyl group, acyl group, phosphorus-containing, or other groups, from one compound (generally regarded as the donor) to another compound (generally regarded as the acceptor). Transferase is the systematic name for any enzyme of EC class 2.
+GO:0003824	Catalysis of a biochemical reaction at physiological temperatures. In biologically catalyzed reactions, the reactants are known as substrates, and the catalysts are naturally occurring macromolecular substances known as enzymes. Enzymes possess specific binding sites for substrates, and are usually composed wholly or largely of protein, but RNA that has catalytic activity (ribozyme) is often also regarded as enzymatic.
+GO:0031100	The regrowth of a lost or destroyed animal organ.
+GO:0005829	The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.
+GO:0006164	The chemical reactions and pathways resulting in the formation of a purine nucleotide, a compound consisting of nucleoside (a purine base linked to a deoxyribose or ribose sugar) esterified with a phosphate group at either the 3' or 5'-hydroxyl group of the sugar.
+GO:0005886	The membrane surrounding a cell that separates the cell from its external environment. It consists of a phospholipid bilayer and associated proteins.
+GO:0006177	The chemical reactions and pathways resulting in the formation of GMP, guanosine monophosphate.
+GO:0021549	The process whose specific outcome is the progression of the cerebellum over time, from its formation to the mature structure. The cerebellum is the portion of the brain in the back of the head between the cerebrum and the pons. In mice, the cerebellum controls balance for walking and standing, modulates the force and range of movement and is involved in the learning of motor skills.
+GO:0004643	Catalysis of the reaction: 10-formyltetrahydrofolate + 5'-phosphoribosyl-5-amino-4-imidazolecarboxamide = tetrahydrofolate + 5'-phosphoribosyl-5-formamido-4-imidazolecarboxamide.
+GO:0097294	The chemical reactions and pathways resulting in the formation of XMP, xanthosine monophosphate, from simpler precursors.
+GO:0021987	The progression of the cerebral cortex over time from its initial formation until its mature state. The cerebral cortex is the outer layered region of the telencephalon.
+GO:0016020	A lipid bilayer along with all the proteins and protein complexes embedded in it and attached to it.
+GO:0046452	The chemical reactions and pathways involving dihydrofolate, the dihydroxylated derivative of folate.
+GO:0003937	Catalysis of the reaction: IMP + H2O = 5-formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide.
+GO:0098761	Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an interleukin-7 stimulus.
+GO:0045296	Binding to cadherin, a type I membrane protein involved in cell adhesion.
+GO:0003360	The progression of the brainstem from its formation to the mature structure. The brainstem is the part of the brain that connects the brain with the spinal cord.
+GO:0044208	The chemical reactions and pathways resulting in the formation of adenosine monophosphate (AMP) from inosine 5'-monophosphate (IMP).
+GO:0006139	Any cellular metabolic process involving nucleobases, nucleosides, nucleotides and nucleic acids.
+GO:0005737	The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.

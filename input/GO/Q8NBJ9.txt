@@ -1,0 +1,19 @@
+GO:0051033	Enables the transfer of RNA, ribonucleic acid, from one side of a membrane to the other.
+GO:0003677	Any molecular function by which a gene product interacts selectively and non-covalently with DNA (deoxyribonucleic acid).
+GO:0005765	The lipid bilayer surrounding the lysosome and separating its contents from the cell cytoplasm.
+GO:0042593	Any process involved in the maintenance of an internal steady state of glucose within an organism or cell.
+GO:0009749	Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a glucose stimulus.
+GO:0035612	Binding to an AP-2 adaptor complex. The AP-2 adaptor complex is a heterotetrameric AP-type membrane coat adaptor complex that consists of alpha, beta2, mu2 and sigma2 subunits and links clathrin to the membrane surface of a vesicle. In at least humans, the AP-2 complex can be heterogeneric due to the existence of multiple subunit isoforms encoded by different alpha genes (alphaA and alphaC).
+GO:0051032	Enables the transfer of nucleic acids from one side of a membrane to the other. Nucleic acids are single or double-stranded polynucleotides involved in the storage, transmission and transfer of genetic information.
+GO:0005764	A small lytic vacuole that has cell cycle-independent morphology found in most animal cells and that contains a variety of hydrolases, most of which have their maximal activities in the pH range 5-6. The contained enzymes display latency if properly isolated. About 40 different lysosomal hydrolases are known and lysosomes have a great variety of morphologies and functions.
+GO:0003723	Binding to an RNA molecule or a portion thereof.
+GO:0000902	The developmental process in which the size or shape of a cell is generated and organized.
+GO:0050658	The directed movement of RNA, ribonucleic acids, into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.
+GO:0005886	The membrane surrounding a cell that separates the cell from its external environment. It consists of a phospholipid bilayer and associated proteins.
+GO:0044342	The multiplication or reproduction of pancreatic B cells, resulting in the expansion of an pancreatic B cell population. Pancreatic B cell are cells of the pancreas that secrete insulin.
+GO:0003323	The process whose specific outcome is the progression of a type B pancreatic cell over time, from its formation to the mature structure. A type B pancreatic cell is a cell located towards center of the islets of Langerhans that secretes insulin.
+GO:0061178	Any process that modulates the frequency, rate or extent of the regulated release of insulin that contributes to the response of a cell to glucose.
+GO:0016020	A lipid bilayer along with all the proteins and protein complexes embedded in it and attached to it.
+GO:0006401	The chemical reactions and pathways resulting in the breakdown of RNA, ribonucleic acid, one of the two main type of nucleic acid, consisting of a long, unbranched macromolecule formed from ribonucleotides joined in 3',5'-phosphodiester linkage.
+GO:0003725	Binding to double-stranded RNA.
+GO:0035650	Binding to an AP-1 adaptor complex. The AP-1 adaptor complex is a heterotetrameric AP-type membrane coat adaptor complex that consists of beta1, gamma, mu1 and sigma1 subunits and links clathrin to the membrane surface of a vesicle. In at least humans, the AP-1 complex can be heterogeneric due to the existence of multiple subunit isoforms encoded by different genes (gamma1 and gamma2, mu1A and mu1B, and sigma1A, sigma1B and sigma1C).

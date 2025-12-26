@@ -1,0 +1,6 @@
+GO:0042802	Binding to an identical protein or proteins.
+GO:0030023	A component of the extracellular matrix that enables the matrix to recoil after transient stretching.
+GO:0031012	A structure lying external to one or more cells, which provides structural support, biochemical or biomechanical cues for cells or tissues.
+GO:0005576	The space external to the outermost structure of a cell. For cells without external protective or external encapsulating structures this refers to space outside of the plasma membrane. This term covers the host cell environment outside an intracellular parasite.
+GO:0005515	Binding to a protein.
+GO:0005737	The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.

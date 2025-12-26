@@ -1,0 +1,33 @@
+GO:0008092	Binding to a protein component of a cytoskeleton (actin, microtubule, or intermediate filament cytoskeleton).
+GO:0001764	The characteristic movement of an immature neuron from germinal zones to specific positions where they will reside as they mature.
+GO:0005515	Binding to a protein.
+GO:0070062	A vesicle that is released into the extracellular region by fusion of the limiting endosomal membrane of a multivesicular body with the plasma membrane. Extracellular exosomes, also simply called exosomes, have a diameter of about 40-100 nm.
+GO:0045202	The junction between an axon of one neuron and a dendrite of another neuron, a muscle fiber or a glial cell. As the axon approaches the synapse it enlarges into a specialized structure, the presynaptic terminal bouton, which contains mitochondria and synaptic vesicles. At the tip of the terminal bouton is the presynaptic membrane; facing it, and separated from it by a minute cleft (the synaptic cleft) is a specialized area of membrane on the receiving cell, known as the postsynaptic membrane. In response to the arrival of nerve impulses, the presynaptic terminal bouton secretes molecules of neurotransmitters into the synaptic cleft. These diffuse across the cleft and transmit the signal to the postsynaptic membrane.
+GO:0035855	The process whose specific outcome is the progression of a megakaryocyte cell over time, from its formation to the mature structure. Megakaryocyte development does not include the steps involved in committing a cell to a megakaryocyte fate. A megakaryocyte is a giant cell 50 to 100 micron in diameter, with a greatly lobulated nucleus, found in the bone marrow.
+GO:0008285	Any process that stops, prevents or reduces the rate or extent of cell proliferation.
+GO:0030175	Thin, stiff, actin-based protrusion extended by the leading edge of a motile cell such as a crawling fibroblast or amoeba, or an axonal or dendritic growth cone, or a dendritic shaft.
+GO:0072673	A process that is carried out at the cellular level and in which the structure of a lamellipodium is organized.
+GO:0035591	The binding activity of a molecule that brings together two or more molecules in a signaling pathway, permitting those molecules to function in a coordinated way. Adaptor molecules themselves do not have catalytic activity.
+GO:0008154	Assembly or disassembly of actin filaments by the addition or removal of actin monomers from a filament.
+GO:0014069	An electron dense network of proteins within and adjacent to the postsynaptic membrane of an asymmetric, neuron-neuron synapse. Its major components include neurotransmitter receptors and the proteins that spatially and functionally organize them such as anchoring and scaffolding molecules, signaling enzymes and cytoskeletal components.
+GO:0005829	The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.
+GO:0030027	A thin sheetlike process extended by the leading edge of a migrating cell or extending cell process; contains a dense meshwork of actin filaments.
+GO:0032433	The end of a filopodium distal to the body of the cell.
+GO:0030296	Increases the activity of a protein tyrosine kinase, an enzyme which phosphorylates a tyrosyl phenolic group on a protein.
+GO:0043005	A prolongation or process extending from a nerve cell, e.g. an axon or dendrite.
+GO:0042995	A prolongation or process extending from a cell, e.g. a flagellum or axon.
+GO:0005634	A membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. In most cells, the nucleus contains all of the cell's chromosomes except the organellar chromosomes, and is the site of RNA synthesis and processing. In some species, or in specialized cell types, RNA metabolism or DNA replication may be absent.
+GO:0031252	The area of a motile cell closest to the direction of movement.
+GO:0048813	The process in which the anatomical structures of a dendrite are generated and organized.
+GO:0005783	The irregular network of unit membranes, visible only by electron microscopy, that occurs in the cytoplasm of many eukaryotic cells. The membranes form a complex meshwork of tubular channels, which are often expanded into slitlike cavities called cisternae. The ER takes two forms, rough (or granular), with ribosomes adhering to the outer surface, and smooth (with no ribosomes attached).
+GO:0030426	The migrating motile tip of a growing neuron projection, where actin accumulates, and the actin cytoskeleton is the most dynamic.
+GO:0061098	Any process that increases the rate, frequency, or extent of protein tyrosine kinase activity.
+GO:0045296	Binding to cadherin, a type I membrane protein involved in cell adhesion.
+GO:0005856	A cellular structure that forms the internal framework of eukaryotic and prokaryotic cells. The cytoskeleton includes intermediate filaments, microfilaments, microtubules, the microtrabecular lattice, and other structures characterized by a polymeric filamentous nature and long-range order within the cell. The various elements of the cytoskeleton not only serve in the maintenance of cellular shape but also have roles in other cellular functions, including cellular movement, cell division, endocytosis, and movement of organelles.
+GO:0048858	The process in which the anatomical structures of a cell projection are generated and organized.
+GO:0007169	The series of molecular signals initiated by an extracellular ligand binding to a receptor on the surface of the target cell where the receptor possesses tyrosine kinase activity, and ending with the regulation of a downstream cellular process, e.g. transcription.
+GO:0017124	Binding to a SH3 domain (Src homology 3) of a protein, small protein modules containing approximately 50 amino acid residues found in a great variety of intracellular or membrane-associated proteins.
+GO:0031209	A pentameric complex that includes orthologues of human PIR121, Nap1, Abi, SCAR, and HSPC300 and regulates actin polymerization and/or depolymerization through small GTPase mediated signal transduction.
+GO:0001756	The formation of mesodermal clusters that are arranged segmentally along the anterior posterior axis of an embryo.
+GO:0098858	A cell projection supported by an assembly of actin filaments, and which lacks microtubules.
+GO:0005737	The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.

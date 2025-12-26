@@ -1,0 +1,53 @@
+GO:0045335	A membrane-bounded intracellular vesicle that arises from the ingestion of particulate material by phagocytosis.
+GO:0031941	A two-stranded helical polymer of the protein actin.
+GO:0016787	Catalysis of the hydrolysis of various bonds, e.g. C-O, C-N, C-C, phosphoric anhydride bonds, etc.
+GO:0031625	Binding to a ubiquitin protein ligase enzyme, any of the E3 proteins.
+GO:0005515	Binding to a protein.
+GO:0005911	A cell junction that forms a connection between two or more cells of an organism; excludes direct cytoplasmic intercellular bridges, such as ring canals in insects.
+GO:0019901	Binding to a protein kinase, any enzyme that catalyzes the transfer of a phosphate group, usually from ATP, to a protein substrate.
+GO:0120192	A cellular process that results in the aggregation, arrangement and bonding together of a set of components to form a tight junction. A tight junction seals cells together in an epithelium in a way that prevents even small molecules from leaking from one side of the sheet to the other.
+GO:0070062	A vesicle that is released into the extracellular region by fusion of the limiting endosomal membrane of a multivesicular body with the plasma membrane. Extracellular exosomes, also simply called exosomes, have a diameter of about 40-100 nm.
+GO:0070527	The adhesion of one platelet to one or more other platelets via adhesion molecules.
+GO:0045202	The junction between an axon of one neuron and a dendrite of another neuron, a muscle fiber or a glial cell. As the axon approaches the synapse it enlarges into a specialized structure, the presynaptic terminal bouton, which contains mitochondria and synaptic vesicles. At the tip of the terminal bouton is the presynaptic membrane; facing it, and separated from it by a minute cleft (the synaptic cleft) is a specialized area of membrane on the receiving cell, known as the postsynaptic membrane. In response to the arrival of nerve impulses, the presynaptic terminal bouton secretes molecules of neurotransmitters into the synaptic cleft. These diffuse across the cleft and transmit the signal to the postsynaptic membrane.
+GO:0001738	The morphogenetic process in which the anatomical structures of a polarized epithelium are generated and organized. A polarized epithelium is an epithelium where the epithelial sheet is oriented with respect to the planar axis.
+GO:0035267	A complex having histone acetylase activity on chromatin, as well as ATPase, DNA helicase and structural DNA binding activities. The complex is thought to be involved in double-strand DNA break repair. Subunits of the human complex include HTATIP/TIP60, TRRAP, RUVBL1, BUVBL2, beta-actin and BAF53/ACTL6A. In yeast, the complex has 13 subunits, including the catalytic subunit Esa1 (homologous to human Tip60).
+GO:0005200	The action of a molecule that contributes to the structural integrity of a cytoskeletal structure.
+GO:0072562	A phospholipid microvesicle that is derived from any of several cell types, such as platelets, blood cells, endothelial cells, or others, and contains membrane receptors as well as other proteins characteristic of the parental cell. Microparticles are heterogeneous in size, and are characterized as microvesicles free of nucleic acids.
+GO:1900242	Any process that modulates the frequency, rate or extent of synaptic vesicle endocytosis.
+GO:0071346	Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an interferon-gamma stimulus. Interferon gamma is the only member of the type II interferon found so far.
+GO:0005615	That part of a multicellular organism outside the cells proper, usually taken to be outside the plasma membranes, and occupied by fluid.
+GO:0010628	Any process that increases the frequency, rate or extent of gene expression. Gene expression is the process in which a gene's coding sequence is converted into a mature gene product (protein or RNA).
+GO:0005884	A filamentous structure formed of a two-stranded helical polymer of the protein actin and associated proteins. Actin filaments are a major component of the contractile apparatus of skeletal muscle and the microfilaments of the cytoskeleton of eukaryotic cells. The filaments, comprising polymerized globular actin molecules, appear as flexible structures with a diameter of 5-9 nm. They are organized into a variety of linear bundles, two-dimensional networks, and three dimensional gels. In the cytoskeleton they are most highly concentrated in the cortex of the cell just beneath the plasma membrane.
+GO:0005829	The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.
+GO:0043296	A functional unit located near the cell apex at the points of contact between epithelial cells, which in vertebrates is composed of the tight junction, the zonula adherens, and desmosomes and in some invertebrates, such as Drosophila, is composed of the subapical complex (SAC), the zonula adherens and the septate junction. Functions in the regulation of cell polarity, tissue integrity and intercellular adhesion and permeability.
+GO:1902396	A process in which a protein is transported to, or maintained in, a location within a bicellular tight junction.
+GO:0030335	Any process that activates or increases the frequency, rate or extent of cell migration.
+GO:0098685	A synapse between the Schaffer collateral axon of a CA3 pyramidal cell and a CA1 pyramidal cell.
+GO:0035633	Maintaining the structure and function of the blood-brain barrier, thus ensuring specific regulated transport of substances (e.g. macromolecules, small molecules, ions) into the brain, and out of the brain into the blood circulation.
+GO:0048870	Any process involved in the controlled self-propelled movement of a cell that results in translocation of the cell from one place to another.
+GO:0000166	Binding to a nucleotide, any compound consisting of a nucleoside that is esterified with (ortho)phosphate or an oligophosphate at any hydroxyl group on the ribose or deoxyribose.
+GO:0042802	Binding to an identical protein or proteins.
+GO:0097433	An electron dense body which may contain granules.
+GO:0045214	The myofibril assembly process that results in the organization of muscle actomyosin into sarcomeres. The sarcomere is the repeating unit of a myofibril in a muscle cell, composed of an array of overlapping thick and thin filaments between two adjacent Z discs.
+GO:0005634	A membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. In most cells, the nucleus contains all of the cell's chromosomes except the organellar chromosomes, and is the site of RNA synthesis and processing. In some species, or in specialized cell types, RNA metabolism or DNA replication may be absent.
+GO:0005886	The membrane surrounding a cell that separates the cell from its external environment. It consists of a phospholipid bilayer and associated proteins.
+GO:0150111	Any process that modulates the frequency, rate or extent of transepithelial transport.
+GO:0007409	De novo generation of a long process of a neuron, including the terminal branched region. Refers to the morphogenesis or creation of shape or form of the developing axon, which carries efferent (outgoing) action potentials from the cell body towards target cells.
+GO:0001525	Blood vessel formation when new vessels emerge from the proliferation of pre-existing blood vessels.
+GO:0044305	The terminal specialization of a calyciferous axon which forms large synapses in the mammalian auditory central nervous system.
+GO:0098973	The action of a molecule that contributes to the structural integrity of a postsynaptic actin cytoskeleton.
+GO:0005524	Binding to ATP, adenosine 5'-triphosphate, a universally important coenzyme and enzyme regulator.
+GO:0090303	Any process that increases the rate, frequency, or extent of the series of events that restore integrity to a damaged tissue, following an injury.
+GO:0030016	The contractile element of skeletal and cardiac muscle; a long, highly organized bundle of actin, myosin, and other proteins that contracts by a sliding filament mechanism.
+GO:0045177	The region of a polarized cell that forms a tip or is distal to a base. For example, in a polarized epithelial cell, the apical region has an exposed surface and lies opposite to the basal lamina that separates the epithelium from other tissue.
+GO:0005925	A cell-substrate junction that anchors the cell to the extracellular matrix and that forms a point of termination of actin filaments. In insects focal adhesion has also been referred to as hemi-adherens junction (HAJ).
+GO:0016020	A lipid bilayer along with all the proteins and protein complexes embedded in it and attached to it.
+GO:0051893	Any process that modulates the frequency, rate or extent of focal adhesion formation, the establishment and maturation of focal adhesions.
+GO:0005856	A cellular structure that forms the internal framework of eukaryotic and prokaryotic cells. The cytoskeleton includes intermediate filaments, microfilaments, microtubules, the microtrabecular lattice, and other structures characterized by a polymeric filamentous nature and long-range order within the cell. The various elements of the cytoskeleton not only serve in the maintenance of cellular shape but also have roles in other cellular functions, including cellular movement, cell division, endocytosis, and movement of organelles.
+GO:0120220	The region in the apical portion of multiciliated epithelial cells where the ciliary basal bodies cluster.
+GO:0098974	A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of cytoskeletal structures comprising actin filaments and their associated proteins in the postsynaptic actin cytoskeleton.
+GO:0015629	The part of the cytoskeleton (the internal framework of a cell) composed of actin and associated proteins. Includes actin cytoskeleton-associated complexes.
+GO:0051492	Any process that modulates the frequency, rate or extent of the assembly of a stress fiber, a bundle of microfilaments and other proteins found in fibroblasts.
+GO:0030424	The long process of a neuron that conducts nerve impulses, usually away from the cell body to the terminals and varicosities, which are sites of storage and release of neurotransmitter.
+GO:0005522	Binding to profilin, an actin-binding protein that forms a complex with G-actin and prevents it from polymerizing to form F-actin.
+GO:0005737	The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.

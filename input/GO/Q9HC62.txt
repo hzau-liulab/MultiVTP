@@ -1,0 +1,34 @@
+GO:0016929	An thiol-dependent isopeptidase activity that cleaves SUMO from a target protein to which it is conjugated.
+GO:0080090	Any process that modulates the frequency, rate or extent of the chemical reactions and pathways within a cell or an organism involving those compounds formed as a part of the normal anabolic and catabolic processes. These processes take place in most, if not all, cells of the organism.
+GO:0016787	Catalysis of the hydrolysis of various bonds, e.g. C-O, C-N, C-C, phosphoric anhydride bonds, etc.
+GO:0032875	Any process that modulates the frequency, rate or extent of DNA endoreduplication.
+GO:0005515	Binding to a protein.
+GO:0031648	Any process that decreases the stability of a protein, making it more vulnerable to degradative processes or aggregation.
+GO:0031965	Either of the lipid bilayers that surround the nucleus and form the nuclear envelope; excludes the intermembrane space.
+GO:0031397	Any process that stops, prevents, or reduces the frequency, rate or extent of the addition of ubiquitin groups to a protein.
+GO:0007507	The process whose specific outcome is the progression of the heart over time, from its formation to the mature structure. The heart is a hollow, muscular organ, which, by contracting rhythmically, keeps up the circulation of the blood.
+GO:0005829	The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.
+GO:0060707	The process in which a relatively unspecialized cell acquires specialized features of a trophoblast giant cell of the placenta. Trophoblast giant cells are the cell of the placenta that line the maternal decidua.
+GO:0008234	Catalysis of the hydrolysis of peptide bonds in a polypeptide chain by a mechanism in which the sulfhydryl group of a cysteine residue at the active center acts as a nucleophile.
+GO:2000045	Any signaling pathway that modulates the activity of a cell cycle cyclin-dependent protein kinase to modulate the switch from G1 phase to S phase of the mitotic cell cycle.
+GO:0016925	The process in which a SUMO protein (small ubiquitin-related modifier) is conjugated to a target protein via an isopeptide bond between the carboxy-terminus of SUMO with an epsilon-amino group of a lysine residue of the target protein.
+GO:0060711	The process in which the labyrinthine layer of the placenta progresses, from its formation to its mature state.
+GO:0005654	That part of the nuclear content other than the chromosomes or the nucleolus.
+GO:0016604	Extra-nucleolar nuclear domains usually visualized by confocal microscopy and fluorescent antibodies to specific proteins.
+GO:0005634	A membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. In most cells, the nucleus contains all of the cell's chromosomes except the organellar chromosomes, and is the site of RNA synthesis and processing. In some species, or in specialized cell types, RNA metabolism or DNA replication may be absent.
+GO:0031398	Any process that activates or increases the frequency, rate or extent of the addition of ubiquitin groups to a protein.
+GO:0051028	The directed movement of mRNA, messenger ribonucleic acid, into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.
+GO:0015031	The directed movement of proteins into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.
+GO:0016605	A class of nuclear body; they react against SP100 auto-antibodies (PML, promyelocytic leukemia); cells typically contain 10-30 PML bodies per nucleus; alterations in the localization of PML bodies occurs after viral infection.
+GO:0016055	The series of molecular signals initiated by binding of a Wnt protein to a frizzled family receptor on the surface of a target cell and ending with a change in cell state.
+GO:0016020	A lipid bilayer along with all the proteins and protein complexes embedded in it and attached to it.
+GO:0030111	Any process that modulates the frequency, rate or extent of the activity of the Wnt signal transduction pathway.
+GO:0045944	Any process that activates or increases the frequency, rate or extent of transcription from an RNA polymerase II promoter.
+GO:0070139	Catalysis of the hydrolysis of peptide bonds between an alpha-carboxyl group and an alpha-amino group within the small conjugating protein SUMO.
+GO:0005643	A protein complex providing a discrete opening in the nuclear envelope of a eukaryotic cell, where the inner and outer nuclear membranes are joined.
+GO:0045444	The process in which a relatively unspecialized cell acquires specialized features of an adipocyte, an animal connective tissue cell specialized for the synthesis and storage of fat.
+GO:0006508	The hydrolysis of proteins into smaller polypeptides and/or amino acids by cleavage of their peptide bonds.
+GO:0016926	The process in which a SUMO protein (small ubiquitin-related modifier) is cleaved from its target protein.
+GO:0005737	The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.
+GO:0060255	Any process that modulates the frequency, rate or extent of the chemical reactions and pathways involving macromolecules, any molecule of high relative molecular mass, the structure of which essentially comprises the multiple repetition of units derived, actually or conceptually, from molecules of low relative molecular mass.
+GO:0008233	Catalysis of the hydrolysis of a peptide bond. A peptide bond is a covalent bond formed when the carbon atom from the carboxyl group of one amino acid shares electrons with the nitrogen atom from the amino group of a second amino acid.

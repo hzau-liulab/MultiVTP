@@ -1,0 +1,42 @@
+GO:0045471	Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an ethanol stimulus.
+GO:0005923	An occluding cell-cell junction that is composed of a branching network of sealing strands that completely encircles the apical end of each cell in an epithelial sheet; the outer leaflets of the two interacting plasma membranes are seen to be tightly apposed where sealing strands are present. Each sealing strand is composed of a long row of transmembrane adhesion proteins embedded in each of the two interacting plasma membranes.
+GO:0016328	The portion of the plasma membrane at the lateral side of the cell. In epithelial cells, lateral plasma membranes are on the sides of cells which lie at the interface of adjacent cells.
+GO:0005911	A cell junction that forms a connection between two or more cells of an organism; excludes direct cytoplasmic intercellular bridges, such as ring canals in insects.
+GO:0005515	Binding to a protein.
+GO:0032991	A stable assembly of two or more macromolecules, i.e. proteins, nucleic acids, carbohydrates or lipids, in which at least one component is a protein and the constituent parts function together.
+GO:0034331	The organization process that preserves a cell junction in a stable functional or structural state. A cell junction is a specialized region of connection between two cells or between a cell and the extracellular matrix.
+GO:0030054	A cellular component that forms a specialized region of connection between two or more cells, or between a cell and the extracellular matrix, or between two membrane-bound components of a cell, such as flagella.
+GO:0032496	Any process that results in a change in state or activity of an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a lipopolysaccharide stimulus; lipopolysaccharide is a major component of the cell wall of gram-negative bacteria.
+GO:0045216	A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of a cell-cell junction. A cell-cell junction is a specialized region of connection between two cells.
+GO:0070673	Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an interleukin-18 stimulus.
+GO:0005198	The action of a molecule that contributes to the structural integrity of a complex.
+GO:0016338	The attachment of one cell to another cell via adhesion molecules that do not require the presence of calcium for the interaction.
+GO:0071356	Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a tumor necrosis factor stimulus.
+GO:0071346	Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an interferon-gamma stimulus. Interferon gamma is the only member of the type II interferon found so far.
+GO:0007155	The attachment of a cell, either to another cell or to an underlying substrate such as the extracellular matrix, via cell adhesion molecules.
+GO:0090557	The establishment of a barrier between endothelial cell layers of the intestine to exert specific and selective control over the passage of water and solutes, thus allowing formation and maintenance of compartments that differ in fluid and solute composition.
+GO:0061436	Establishment of the epithelial barrier, the functional barrier in the skin that limits its permeability.
+GO:0030335	Any process that activates or increases the frequency, rate or extent of cell migration.
+GO:0016324	The region of the plasma membrane located at the apical end of the cell.
+GO:0035633	Maintaining the structure and function of the blood-brain barrier, thus ensuring specific regulated transport of substances (e.g. macromolecules, small molecules, ions) into the brain, and out of the brain into the blood circulation.
+GO:0070160	A cell-cell junction that seals cells together in an epithelium in a way that prevents even small molecules from leaking from one side of the sheet to the other.
+GO:0001618	Combining with a virus component and mediating entry of the virus into the cell.
+GO:0042802	Binding to an identical protein or proteins.
+GO:0070161	A cell junction that mechanically attaches a cell (and its cytoskeleton) to neighboring cells or to the extracellular matrix.
+GO:0051259	The process of creating protein oligomers, compounds composed of a small number, usually between three and ten, of component monomers; protein oligomers may be composed of different or identical monomers. Oligomers may be formed by the polymerization of a number of monomers or the depolymerization of a large protein polymer.
+GO:0071284	Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a lead ion stimulus.
+GO:0005886	The membrane surrounding a cell that separates the cell from its external environment. It consists of a phospholipid bilayer and associated proteins.
+GO:0090303	Any process that increases the rate, frequency, or extent of the series of events that restore integrity to a damaged tissue, following an injury.
+GO:0061772	The directed movement of a xenobiotic through the blood-nerve barrier.
+GO:0009636	Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a toxic stimulus.
+GO:1903348	Any process that activates or increases the frequency, rate or extent of tight junction assembly.
+GO:0016020	A lipid bilayer along with all the proteins and protein complexes embedded in it and attached to it.
+GO:0071560	Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a transforming growth factor beta stimulus.
+GO:1903545	Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a butyrate stimulus.
+GO:0097421	The regrowth of lost or destroyed liver.
+GO:0046718	The process by which a symbiont breaches the plasma membrane or cell envelope and enters the host cell. The process ends when the symbiont or its genome is released into the host cell.
+GO:0016323	The region of the plasma membrane that includes the basal end and sides of the cell. Often used in reference to animal polarized epithelial membranes, where the basal membrane is the part attached to the extracellular matrix, or in plant cells, where the basal membrane is defined with respect to the zygotic axis.
+GO:0060054	Any process that activates or increases the rate or extent of epithelial cell proliferation, contributing to the restoration of integrity to a damaged tissue following an injury.
+GO:0071548	Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a dexamethasone stimulus.
+GO:0070830	The aggregation, arrangement and bonding together of a set of components to form a tight junction, an occluding cell-cell junction that is composed of a branching network of sealing strands that completely encircles the apical end of each cell in an epithelial sheet.
+GO:0008065	The establishment of the barrier between the perineurium of peripheral nerves and the vascular endothelium of endoneurial capillaries. The perineurium acts as a diffusion barrier, but ion permeability at the blood-nerve barrier is still higher than at the blood-brain barrier.

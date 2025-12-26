@@ -1,0 +1,24 @@
+GO:0005525	Binding to GTP, guanosine triphosphate.
+GO:0001764	The characteristic movement of an immature neuron from germinal zones to specific positions where they will reside as they mature.
+GO:0005515	Binding to a protein.
+GO:0000278	Progression through the phases of the mitotic cell cycle, the most common eukaryotic cell cycle, which canonically comprises four successive phases called G1, S, G2, and M and includes replication of the genome and the subsequent segregation of chromosomes into daughter cells. In some variant cell cycles nuclear replication or nuclear division may not be followed by cell division, or G1 and G2 phases may be absent.
+GO:0072686	A spindle that forms as part of mitosis. Mitotic and meiotic spindles contain distinctive complements of proteins associated with microtubules.
+GO:0015630	The part of the cytoskeleton (the internal framework of a cell) composed of microtubules and associated proteins.
+GO:1990403	The process occurring during the embryonic phase whose specific outcome is the progression of the brain over time, from its formation to the mature structure.
+GO:0005200	The action of a molecule that contributes to the structural integrity of a cytoskeletal structure.
+GO:0000226	A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of cytoskeletal structures comprising microtubules and their associated proteins.
+GO:0003924	Catalysis of the reaction: GTP + H2O = GDP + H+ + phosphate.
+GO:0098685	A synapse between the Schaffer collateral axon of a CA3 pyramidal cell and a CA1 pyramidal cell.
+GO:0007399	The process whose specific outcome is the progression of nervous tissue over time, from its formation to its mature state.
+GO:0000166	Binding to a nucleotide, any compound consisting of a nucleoside that is esterified with (ortho)phosphate or an oligophosphate at any hydroxyl group on the ribose or deoxyribose.
+GO:0005634	A membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. In most cells, the nucleus contains all of the cell's chromosomes except the organellar chromosomes, and is the site of RNA synthesis and processing. In some species, or in specialized cell types, RNA metabolism or DNA replication may be absent.
+GO:0046872	Binding to a metal ion.
+GO:0045171	A direct connection between the cytoplasm of two cells that is formed following the completion of cleavage furrow ingression during cell division. They are usually present only briefly prior to completion of cytokinesis. However, in some cases, such as the bridges between germ cells during their development, they become stabilised.
+GO:1902669	Any process that activates or increases the frequency, rate or extent of axon guidance.
+GO:0050804	Any process that modulates the frequency or amplitude of synaptic transmission, the process of communication from a neuron to a target (neuron, muscle, or secretory cell) across a synapse. Amplitude, in this case, refers to the change in postsynaptic membrane potential due to a single instance of synaptic transmission.
+GO:0021987	The progression of the cerebral cortex over time from its initial formation until its mature state. The cerebral cortex is the outer layered region of the telencephalon.
+GO:0005856	A cellular structure that forms the internal framework of eukaryotic and prokaryotic cells. The cytoskeleton includes intermediate filaments, microfilaments, microtubules, the microtrabecular lattice, and other structures characterized by a polymeric filamentous nature and long-range order within the cell. The various elements of the cytoskeleton not only serve in the maintenance of cellular shape but also have roles in other cellular functions, including cellular movement, cell division, endocytosis, and movement of organelles.
+GO:0007017	Any cellular process that depends upon or alters the microtubule cytoskeleton, that part of the cytoskeleton comprising microtubules and their associated proteins.
+GO:0046982	Binding to a nonidentical protein to form a heterodimer.
+GO:0005737	The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.
+GO:0005874	Any of the long, generally straight, hollow tubes of internal diameter 12-15 nm and external diameter 24 nm found in a wide variety of eukaryotic cells; each consists (usually) of 13 protofilaments of polymeric tubulin, staggered in such a manner that the tubulin monomers are arranged in a helical pattern on the microtubular surface, and with the alpha/beta axes of the tubulin subunits parallel to the long axis of the tubule; exist in equilibrium with pool of tubulin monomers and can be rapidly assembled or disassembled in response to physiological stimuli; concerned with force generation, e.g. in the spindle.

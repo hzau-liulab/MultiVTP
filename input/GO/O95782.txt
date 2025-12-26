@@ -1,0 +1,37 @@
+GO:0005905	A part of the endomembrane system in the form of an invagination of a membrane upon which a clathrin coat forms, and that can be converted by vesicle budding into a clathrin-coated vesicle. Coated pits form on the plasma membrane, where they are involved in receptor-mediated selective transport of many proteins and other macromolecules across the cell membrane, in the trans-Golgi network, and on some endosomes.
+GO:0005515	Binding to a protein.
+GO:0030117	Any of several different proteinaceous coats that can associate with membranes. Membrane coats include those formed by clathrin plus an adaptor complex, the COPI and COPII complexes, and possibly others. They are found associated with membranes on many vesicles as well as other membrane features such as pits and perhaps tubules.
+GO:0019901	Binding to a protein kinase, any enzyme that catalyzes the transfer of a phosphate group, usually from ATP, to a protein substrate.
+GO:0030136	A vesicle with a coat formed of clathrin connected to the membrane via one of the clathrin adaptor complexes.
+GO:0030130	A clathrin coat found on a vesicle of the trans-Golgi network.
+GO:0072583	An endocytosis process that begins when material is taken up into clathrin-coated pits, which then pinch off to form clathrin-coated endocytic vesicles.
+GO:0008021	A secretory organelle, typically 50 nm in diameter, of presynaptic nerve terminals; accumulates in high concentrations of neurotransmitters and secretes these into the synaptic cleft by fusion with the 'active zone' of the presynaptic plasma membrane.
+GO:0048488	A vesicle-mediated transport process, in which the synaptic vesicle membrane constituents are retrieved from the presynaptic membrane on the axon terminal after neurotransmitter secretion by exocytosis. Synaptic vesicle endocytosis can occur via clathrin-dependent and clathrin-independent mechanisms.
+GO:0044877	Binding to a macromolecular complex.
+GO:0006897	A vesicle-mediated transport process in which cells take up external materials or membrane constituents by the invagination of a part of the plasma membrane to form a new membrane-bounded vesicle.
+GO:1900126	Any process that stops, prevents or reduces the frequency, rate or extent of hyaluronan biosynthetic process.
+GO:0005829	The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.
+GO:0036020	The lipid bilayer surrounding an endolysosome. An endolysosome is a transient hybrid organelle formed by fusion of a late endosome with a lysosome.
+GO:0098843	A stably positioned site of clathrin adjacent and physically attached to the postsynaptic specialization, which is the site of endocytosis of post-synaptic proteins.
+GO:0032433	The end of a filopodium distal to the body of the cell.
+GO:0016324	The region of the plasma membrane located at the apical end of the cell.
+GO:0030122	A heterotetrameric AP-type membrane coat adaptor complex that consists of alpha, beta2, mu2 and sigma2 subunits, and links clathrin to the membrane surface of a vesicle, and the cargo receptors during receptor/clathrin mediated endocytosis. Vesicles with AP-2-containing coats are normally found primarily near the plasma membrane, on endocytic vesicles. In at least humans, the AP-2 complex can be heterogeneric due to the existence of multiple subunit isoforms encoded by different alpha genes (alphaA and alphaC).
+GO:0045334	A clathrin-coated, membrane-bounded intracellular vesicle formed by invagination of the plasma membrane around an extracellular substance.
+GO:0005886	The membrane surrounding a cell that separates the cell from its external environment. It consists of a phospholipid bilayer and associated proteins.
+GO:0016192	A cellular transport process in which transported substances are moved in membrane-bounded vesicles; transported substances are enclosed in the vesicle lumen or located in the vesicle membrane. The process begins with a step that directs a substance to the forming vesicle, and includes vesicle budding and coating. Vesicles are then targeted to, and fuse with, an acceptor membrane.
+GO:0030131	A membrane coat adaptor complex that links clathrin to a membrane.
+GO:0010976	Any process that increases the rate, frequency or extent of neuron projection development. Neuron projection development is the process whose specific outcome is the progression of a neuron projection over time, from its formation to the mature structure. A neuron projection is any process extending from a neural cell, such as axons or dendrites (collectively called neurites).
+GO:0015031	The directed movement of proteins into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.
+GO:0048260	Any process that activates or increases the frequency, rate or extent of receptor mediated endocytosis, the uptake of external materials by cells, utilizing receptors to ensure specificity of transport.
+GO:0030666	The lipid bilayer surrounding an endocytic vesicle.
+GO:0098884	A receptor-mediated endocytosis process that results in the internalization of a neurotransmitter receptor from the postsynaptic membrane endocytic zone into an endocytic vesicle.
+GO:0016020	A lipid bilayer along with all the proteins and protein complexes embedded in it and attached to it.
+GO:0030669	The lipid bilayer surrounding a clathrin-coated endocytic vesicle.
+GO:0098978	A synapse that uses glutamate as a neurotransmitter.
+GO:0006895	The directed movement of substances from the Golgi to early sorting endosomes. Clathrin vesicles transport substances from the trans-Golgi to endosomes.
+GO:0016323	The region of the plasma membrane that includes the basal end and sides of the cell. Often used in reference to animal polarized epithelial membranes, where the basal membrane is the part attached to the extracellular matrix, or in plant cells, where the basal membrane is defined with respect to the zygotic axis.
+GO:0009898	The leaflet the plasma membrane that faces the cytoplasm and any proteins embedded or anchored in it or attached to its surface.
+GO:0035615	Bringing together a cargo protein with clathrin, responsible for the formation of endocytic vesicles.
+GO:0006886	The directed movement of proteins in a cell, including the movement of proteins between specific compartments or structures within a cell, such as organelles of a eukaryotic cell.
+GO:0032991	A stable assembly of two or more macromolecules, i.e. proteins, nucleic acids, carbohydrates or lipids, in which at least one component is a protein and the constituent parts function together.
+GO:0050750	Binding to a low-density lipoprotein receptor.

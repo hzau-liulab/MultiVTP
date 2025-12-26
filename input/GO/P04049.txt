@@ -1,0 +1,58 @@
+GO:0042981	Any process that modulates the occurrence or rate of cell death by apoptotic process.
+GO:0043066	Any process that stops, prevents, or reduces the frequency, rate or extent of cell death by apoptotic process.
+GO:0043410	Any process that activates or increases the frequency, rate or extent of signal transduction mediated by the MAPK cascade.
+GO:0030878	The process whose specific outcome is the progression of the thyroid gland over time, from its formation to the mature structure. The thyroid gland is an endoderm-derived gland that produces thyroid hormone.
+GO:0035994	Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a myofibril being extended beyond its slack length.
+GO:0005515	Binding to a protein.
+GO:0042552	The process in which myelin sheaths are formed and maintained around neurons. Oligodendrocytes in the brain and spinal cord and Schwann cells in the peripheral nervous system wrap axons with compact layers of their plasma membrane. Adjacent myelin segments are separated by a non-myelinated stretch of axon called a node of Ranvier.
+GO:0005741	The outer, i.e. cytoplasm-facing, lipid bilayer of the mitochondrial envelope.
+GO:0010856	Binds to and increases the activity of adenylate cyclase.
+GO:0008285	Any process that stops, prevents or reduces the rate or extent of cell proliferation.
+GO:0016740	Catalysis of the transfer of a group, e.g. a methyl group, glycosyl group, acyl group, phosphorus-containing, or other groups, from one compound (generally regarded as the donor) to another compound (generally regarded as the acceptor). Transferase is the systematic name for any enzyme of EC class 2.
+GO:0030154	The cellular developmental process in which a relatively unspecialized cell, e.g. embryonic or regenerative cell, acquires specialized structural and/or functional features that characterize a specific cell. Differentiation includes the processes involved in commitment of a cell to a specific fate and its subsequent development to the mature state.
+GO:0004674	Catalysis of the reactions: ATP + protein serine = ADP + protein serine phosphate, and ATP + protein threonine = ADP + protein threonine phosphate.
+GO:0031143	A temporary protrusion or retractile process of a cell, associated with flowing movements of the protoplasm, and serving for locomotion and feeding.
+GO:0016301	Catalysis of the transfer of a phosphate group, usually from ATP, to a substrate molecule.
+GO:0001678	A homeostatic process involved in the maintenance of a steady state level of glucose within a cell.
+GO:0006915	A programmed cell death process which begins when a cell receives an internal (e.g. DNA damage) or external signal (e.g. an extracellular death ligand), and proceeds through a series of biochemical events (signaling pathway phase) which trigger an execution phase. The execution phase is the last step of an apoptotic process, and is typically characterized by rounding-up of the cell, retraction of pseudopodes, reduction of cellular volume (pyknosis), chromatin condensation, nuclear fragmentation (karyorrhexis), plasma membrane blebbing and fragmentation of the cell into apoptotic bodies. When the execution phase is completed, the cell has died.
+GO:0005794	A membrane-bound cytoplasmic organelle of the endomembrane system that further processes the core oligosaccharides (e.g. N-glycans) added to proteins in the endoplasmic reticulum and packages them into membrane-bound vesicles. The Golgi apparatus operates at the intersection of the secretory, lysosomal, and endocytic pathways.
+GO:0035019	Any process by which an organism retains a population of somatic stem cells, undifferentiated cells in the embryo or adult which can undergo unlimited division and give rise to cell types of the body other than those of the germ-line.
+GO:0005829	The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.
+GO:0042060	The series of events that restore integrity to a damaged tissue, following an injury.
+GO:0008270	Binding to a zinc ion (Zn).
+GO:0031267	Binding to a small monomeric GTPase.
+GO:0035023	Any process that modulates the frequency, rate or extent of Rho protein signal transduction.
+GO:0048011	The series of molecular signals initiated by neurotrophin binding to its receptor on the surface of a target cell where the receptor possesses tyrosine kinase activity, and ending with the regulation of a downstream cellular process, e.g. transcription.
+GO:0035773	The regulated release of proinsulin from secretory granules (B granules) in the B cells of the pancreas; accompanied by cleavage of proinsulin to form mature insulin, in response to a glucose stimulus.
+GO:0071550	A process of protein complex assembly in which the arrangement and bonding together of the set of components that form the protein complex is mediated by a death domain (DD) interaction, as part of the extrinsic apoptotic signaling pathway.
+GO:0019899	Binding to an enzyme, a protein with catalytic activity.
+GO:0008286	The series of molecular signals generated as a consequence of the insulin receptor binding to insulin.
+GO:1902042	Any process that stops, prevents or reduces the frequency, rate or extent of extrinsic apoptotic signaling pathway via death domain receptors.
+GO:0000166	Binding to a nucleotide, any compound consisting of a nucleoside that is esterified with (ortho)phosphate or an oligophosphate at any hydroxyl group on the ribose or deoxyribose.
+GO:0042802	Binding to an identical protein or proteins.
+GO:0000165	An intracellular protein kinase cascade containing at least a MAP kinase (MAPK). It starts with the activation of a MAP3K, and the consecutive activation of a MPK2K and a MAPK. The cascade can also contain an additional tier: the upstream MAP4K. The kinases in each tier phosphorylate and activate the kinase in the downstream tier to transmit a signal within a cell.
+GO:0005886	The membrane surrounding a cell that separates the cell from its external environment. It consists of a phospholipid bilayer and associated proteins.
+GO:0005634	A membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. In most cells, the nucleus contains all of the cell's chromosomes except the organellar chromosomes, and is the site of RNA synthesis and processing. In some species, or in specialized cell types, RNA metabolism or DNA replication may be absent.
+GO:0044342	The multiplication or reproduction of pancreatic B cells, resulting in the expansion of an pancreatic B cell population. Pancreatic B cell are cells of the pancreas that secrete insulin.
+GO:0046872	Binding to a metal ion.
+GO:0033138	Any process that activates or increases the frequency, rate or extent of the phosphorylation of peptidyl-serine.
+GO:0045595	Any process that modulates the frequency, rate or extent of cell differentiation, the process in which relatively unspecialized cells acquire specialized structural and functional features.
+GO:0004709	Catalysis of the phosphorylation and activation of a MAP kinase kinase; each MAP kinase kinase can be phosphorylated by any of several MAP kinase kinase kinases.
+GO:0045104	A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of cytoskeletal structures comprising intermediate filaments and their associated proteins.
+GO:0005524	Binding to ATP, adenosine 5'-triphosphate, a universally important coenzyme and enzyme regulator.
+GO:0048009	The series of molecular signals initiated by a ligand binding to an insulin-like growth factor receptor on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription.
+GO:0004672	Catalysis of the phosphorylation of an amino acid residue in a protein, usually according to the reaction: a protein + ATP = a phosphoprotein + ADP.
+GO:0106310	Catalysis of the reactions: ATP + protein serine = ADP + protein serine phosphate.
+GO:0014044	The process aimed at the progression of a Schwann cell over time, from initial commitment of the cell to a specific fate, to the fully functional differentiated cell. Schwann cells are found in the peripheral nervous system, where they insulate neurons and axons, and regulate the environment in which neurons function.
+GO:0045944	Any process that activates or increases the frequency, rate or extent of transcription from an RNA polymerase II promoter.
+GO:0006468	The process of introducing a phosphate group on to a protein.
+GO:0038133	The series of molecular signals initiated by binding of a ligand to a ERBB3 receptor on the surface of a cell, followed by transmission of the signal by a heterodimeric complex of ERBB2 and ERBB3. ERBB2, which does not bind any known ligand, is activated through formation of a heterodimer with another ligand-activated ERBB family member such as ERBB3. ERBB3 also has impaired kinase activity and relies on ERBB2 for activation and signal transmission.
+GO:0016020	A lipid bilayer along with all the proteins and protein complexes embedded in it and attached to it.
+GO:0007165	The cellular process in which a signal is conveyed to trigger a change in the activity or state of a cell. Signal transduction begins with reception of a signal (e.g. a ligand binding to a receptor or receptor activation by a stimulus such as light), or for signal transduction in the absence of ligand, signal-withdrawal or the activity of a constitutively active receptor. Signal transduction ends with regulation of a downstream cellular process, e.g. regulation of transcription or regulation of a metabolic process. Signal transduction covers signaling from receptors located on the surface of the cell and signaling via molecules located within the cell. For signaling between cells, signal transduction is restricted to events at and within the receiving cell.
+GO:0005739	A semiautonomous, self replicating organelle that occurs in varying numbers, shapes, and sizes in the cytoplasm of virtually all eukaryotic cells. It is notably the site of tissue respiration.
+GO:0008625	The series of molecular signals in which a signal is conveyed from the cell surface to trigger the apoptotic death of a cell. The pathway starts with a ligand binding to a death domain receptor on the cell surface, and ends when the execution phase of apoptosis is triggered.
+GO:0048538	The process whose specific outcome is the progression of the thymus over time, from its formation to the mature structure. The thymus is a symmetric bi-lobed organ involved primarily in the differentiation of immature to mature T cells, with unique vascular, nervous, epithelial, and lymphoid cell components.
+GO:0060324	The biological process whose specific outcome is the progression of a face from an initial condition to its mature state. The face is the ventral division of the head.
+GO:0060333	The series of molecular signals initiated by interferon-gamma binding to its receptor on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription. Interferon gamma is the only member of the type II interferon found so far.
+GO:0005737	The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.
+GO:0031333	Any process that stops, prevents, or reduces the frequency, rate or extent of protein complex assembly.

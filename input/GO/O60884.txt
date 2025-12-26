@@ -1,0 +1,17 @@
+GO:0031072	Binding to a heat shock protein, a protein synthesized or activated in response to heat shock.
+GO:0051087	Binding to a chaperone protein, a class of proteins that bind to nascent or unfolded polypeptides and ensure correct folding or transport.
+GO:0008284	Any process that activates or increases the rate or extent of cell proliferation.
+GO:0005829	The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.
+GO:0005515	Binding to a protein.
+GO:0030544	Binding to a Hsp70 protein, heat shock proteins around 70kDa in size.
+GO:0046872	Binding to a metal ion.
+GO:0070062	A vesicle that is released into the extracellular region by fusion of the limiting endosomal membrane of a multivesicular body with the plasma membrane. Extracellular exosomes, also simply called exosomes, have a diameter of about 40-100 nm.
+GO:0008270	Binding to a zinc ion (Zn).
+GO:0005524	Binding to ATP, adenosine 5'-triphosphate, a universally important coenzyme and enzyme regulator.
+GO:0001671	Binds to and increases the activity of an ATP hydrolysis activity.
+GO:0051082	Binding to an unfolded protein.
+GO:0009408	Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a heat stimulus, a temperature stimulus above the optimal temperature for that organism.
+GO:0016020	A lipid bilayer along with all the proteins and protein complexes embedded in it and attached to it.
+GO:0006457	The process of assisting in the covalent and noncovalent assembly of single chain polypeptides or multisubunit complexes into the correct tertiary structure.
+GO:0005737	The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.
+GO:0042026	The process carried out by a cell that restores the biological activity of an unfolded or misfolded protein, using helper proteins such as chaperones.

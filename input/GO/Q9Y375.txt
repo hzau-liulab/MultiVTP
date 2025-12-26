@@ -1,0 +1,10 @@
+GO:0032981	The aggregation, arrangement and bonding together of a set of components to form mitochondrial respiratory chain complex I.
+GO:0005829	The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.
+GO:0005515	Binding to a protein.
+GO:0065003	The aggregation, arrangement and bonding together of a set of macromolecules to form a protein-containing complex.
+GO:0005739	A semiautonomous, self replicating organelle that occurs in varying numbers, shapes, and sizes in the cytoplasm of virtually all eukaryotic cells. It is notably the site of tissue respiration.
+GO:0051131	The aggregation, arrangement and bonding together of a set of components to form a protein complex, mediated by chaperone molecules that do not form part of the finished complex.
+GO:0051082	Binding to an unfolded protein.
+GO:0006120	The transfer of electrons from NADH to ubiquinone that occurs during oxidative phosphorylation.
+GO:0005759	The gel-like material, with considerable fine structure, that lies in the matrix space, or lumen, of a mitochondrion. It contains the enzymes of the tricarboxylic acid cycle and, in some organisms, the enzymes concerned with fatty acid oxidation.
+GO:0005743	The inner, i.e. lumen-facing, lipid bilayer of the mitochondrial envelope. It is highly folded to form cristae.

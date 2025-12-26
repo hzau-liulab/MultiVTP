@@ -1,0 +1,64 @@
+GO:0046982	Binding to a nonidentical protein to form a heterodimer.
+GO:0003064	The process in which the hormones modulates the rate of heart muscle contraction. A hormone is one of a group of substances formed in very small amounts in one specialized organ or group of cells and carried (sometimes in the bloodstream) to another organ or group of cells, in the same organism, upon which they have a specific regulatory action.
+GO:0021762	The progression of the substantia nigra over time from its initial formation until its mature state. The substantia nigra is the layer of gray substance that separates the posterior parts of the cerebral peduncles (tegmentum mesencephali) from the anterior parts; it normally includes a posterior compact part with many pigmented cells (pars compacta) and an anterior reticular part whose cells contain little pigment (pars reticularis).
+GO:0031625	Binding to a ubiquitin protein ligase enzyme, any of the E3 proteins.
+GO:0002753	The series of molecular signals initiated by the binding of a ligand from another organism to a cytoplasmic pattern recognition receptor (PRR). PRRs bind pathogen-associated molecular pattern (PAMPs), structures conserved among microbial species.
+GO:0001764	The characteristic movement of an immature neuron from germinal zones to specific positions where they will reside as they mature.
+GO:0005246	Modulates the activity of a calcium channel.
+GO:0004864	Binds to and stops, prevents or reduces the activity of a protein phosphatase.
+GO:0005515	Binding to a protein.
+GO:0070062	A vesicle that is released into the extracellular region by fusion of the limiting endosomal membrane of a multivesicular body with the plasma membrane. Extracellular exosomes, also simply called exosomes, have a diameter of about 40-100 nm.
+GO:0006605	The process of targeting specific proteins to particular regions of the cell, typically membrane-bounded subcellular organelles. Usually requires an organelle specific protein sequence motif.
+GO:0030007	A homeostatic process involved in the maintenance of a steady state level of potassium ions within a cell.
+GO:0034142	The series of molecular signals initiated by a ligand binding to toll-like receptor 4.
+GO:0051480	Any process involved in the maintenance of an internal steady state of calcium ions within the cytosol of a cell or between the cytosol and its surroundings.
+GO:0019855	Binds to and stops, prevents, or reduces the activity of a calcium channel.
+GO:0035591	The binding activity of a molecule that brings together two or more molecules in a signaling pathway, permitting those molecules to function in a coordinated way. Adaptor molecules themselves do not have catalytic activity.
+GO:0021766	The progression of the hippocampus over time from its initial formation until its mature state.
+GO:0005829	The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.
+GO:0003723	Binding to an RNA molecule or a portion thereof.
+GO:0006888	The directed movement of substances from the endoplasmic reticulum (ER) to the Golgi, mediated by COP II vesicles. Small COP II coated vesicles form from the ER and then fuse directly with the cis-Golgi. Larger structures are transported along microtubules to the cis-Golgi.
+GO:0015459	Binds to and modulates the activity of a potassium channel.
+GO:0140311	Binding to a protein to prevent it from interacting with other partners or to inhibit its localization to the area of the cell or complex where it is active.
+GO:1905913	Any process that stops, prevents or reduces the frequency, rate or extent of calcium ion export across the plasma membrane.
+GO:0031966	Either of the lipid bilayers that surround the mitochondrion and form the mitochondrial envelope.
+GO:0006893	The directed movement of substances from the Golgi to the plasma membrane in transport vesicles that move from the trans-Golgi network to the plasma membrane, where they fuse and release their contents by exocytosis.
+GO:0019899	Binding to an enzyme, a protein with catalytic activity.
+GO:0035556	The process in which a signal is passed on to downstream components within the cell, which become activated themselves to further propagate the signal and finally trigger a change in the function or state of the cell.
+GO:0097110	Binding to a scaffold protein. Scaffold proteins are crucial regulators of many key signaling pathways. Although not strictly defined in function, they are known to interact and/or bind with multiple members of a signaling pathway, tethering them into complexes.
+GO:0007346	Any process that modulates the rate or extent of progress through the mitotic cell cycle.
+GO:0086013	The process in which ions are transported across a membrane such that the cardiac muscle cell plasma membrane potential changes in the direction from the positive membrane potential at the peak of the action potential towards the negative resting potential.
+GO:0042802	Binding to an identical protein or proteins.
+GO:0000165	An intracellular protein kinase cascade containing at least a MAP kinase (MAPK). It starts with the activation of a MAP3K, and the consecutive activation of a MPK2K and a MAPK. The cascade can also contain an additional tier: the upstream MAP4K. The kinases in each tier phosphorylate and activate the kinase in the downstream tier to transmit a signal within a cell.
+GO:0140678	A molecular function regulator that inhibits or decreases the activity of its target via non-covalent binding that does not result in covalent modification to the target.
+GO:0060306	Any process that modulates the establishment or extent of a membrane potential in the polarizing direction towards the resting potential, usually from positive to negative.
+GO:0005886	The membrane surrounding a cell that separates the cell from its external environment. It consists of a phospholipid bilayer and associated proteins.
+GO:0086091	A cardiac conduction process that modulates the frequency or rate of heart contraction.
+GO:0005634	A membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. In most cells, the nucleus contains all of the cell's chromosomes except the organellar chromosomes, and is the site of RNA synthesis and processing. In some species, or in specialized cell types, RNA metabolism or DNA replication may be absent.
+GO:0046827	Any process that activates or increases the frequency, rate or extent of directed movement of proteins from the nucleus into the cytoplasm.
+GO:0043161	The chemical reactions and pathways resulting in the breakdown of a protein or peptide by hydrolysis of its peptide bonds, initiated by the covalent attachment of ubiquitin, and mediated by the proteasome.
+GO:0008104	Any process in which a protein is transported to, or maintained in, a specific location.
+GO:0070972	A process in which a protein is transported to, or maintained in, a location within the endoplasmic reticulum.
+GO:0051219	Binding to a phosphorylated protein.
+GO:0042470	A tissue-specific, membrane-bounded cytoplasmic organelle within which melanin pigments are synthesized and stored. Melanosomes are synthesized in melanocyte cells.
+GO:0034123	Any process that activates or increases the frequency, rate, or extent of toll-like receptor signaling pathway.
+GO:0019904	Binding to a specific domain of a protein.
+GO:0050815	Binding to a phosphorylated serine residue within a protein.
+GO:0023026	Binding to a class II major histocompatibility complex.
+GO:0021987	The progression of the cerebral cortex over time from its initial formation until its mature state. The cerebral cortex is the outer layered region of the telencephalon.
+GO:0042826	Binding to histone deacetylase.
+GO:0034122	Any process that stops, prevents, or reduces the frequency, rate, or extent of toll-like receptor signaling pathway.
+GO:0005783	The irregular network of unit membranes, visible only by electron microscopy, that occurs in the cytoplasm of many eukaryotic cells. The membranes form a complex meshwork of tubular channels, which are often expanded into slitlike cavities called cisternae. The ER takes two forms, rough (or granular), with ribosomes adhering to the outer surface, and smooth (with no ribosomes attached).
+GO:1901379	Any process that modulates the frequency, rate or extent of potassium ion transmembrane transport.
+GO:0034504	A process in which a protein transports or maintains the localization of another protein to the nucleus.
+GO:0034605	Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a heat stimulus, a temperature stimulus above the optimal temperature for that organism.
+GO:0005925	A cell-substrate junction that anchors the cell to the extracellular matrix and that forms a point of termination of actin filaments. In insects focal adhesion has also been referred to as hemi-adherens junction (HAJ).
+GO:0016020	A lipid bilayer along with all the proteins and protein complexes embedded in it and attached to it.
+GO:0045296	Binding to cadherin, a type I membrane protein involved in cell adhesion.
+GO:0007165	The cellular process in which a signal is conveyed to trigger a change in the activity or state of a cell. Signal transduction begins with reception of a signal (e.g. a ligand binding to a receptor or receptor activation by a stimulus such as light), or for signal transduction in the absence of ligand, signal-withdrawal or the activity of a constitutively active receptor. Signal transduction ends with regulation of a downstream cellular process, e.g. regulation of transcription or regulation of a metabolic process. Signal transduction covers signaling from receptors located on the surface of the cell and signaling via molecules located within the cell. For signaling between cells, signal transduction is restricted to events at and within the receiving cell.
+GO:0019903	Binding to a protein phosphatase.
+GO:0035332	Any process that activates or increases the frequency, rate or extent of hippo signaling.
+GO:0044325	Binding to a transmembrane transporter, a protein or protein complex that enables the transfer of a substance, usually a specific substance or a group of related substances, from one side of a membrane to the other.
+GO:0070979	A protein ubiquitination process in which ubiquitin monomers are attached to a protein, and then ubiquitin polymers are formed by linkages between lysine residues at position 11 of the ubiquitin monomers. K11-linked polyubiquitination targets the substrate protein for degradation. The anaphase-promoting complex promotes the degradation of mitotic regulators by assembling K11-linked polyubiquitin chains.
+GO:0005737	The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.
+GO:0035329	An intracellular signaling cascade that starts with the activation of hippo (STK4/MST1 and STK3/MST2 in mammals and hpo kinase in Drosophila). Hippo then phosphorylates LATS1/2, which in turn phosphoylates the transcriptional co-activator YAP1 (yki in Drosophila), leading to its cytosolic retention and/or degradation.

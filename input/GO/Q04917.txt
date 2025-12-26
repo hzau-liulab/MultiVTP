@@ -1,0 +1,33 @@
+GO:0021762	The progression of the substantia nigra over time from its initial formation until its mature state. The substantia nigra is the layer of gray substance that separates the posterior parts of the cerebral peduncles (tegmentum mesencephali) from the anterior parts; it normally includes a posterior compact part with many pigmented cells (pars compacta) and an anterior reticular part whose cells contain little pigment (pars reticularis).
+GO:0005515	Binding to a protein.
+GO:0099171	Any process, acting in the presynapse that results in modulation of chemical synaptic transmission.
+GO:0070062	A vesicle that is released into the extracellular region by fusion of the limiting endosomal membrane of a multivesicular body with the plasma membrane. Extracellular exosomes, also simply called exosomes, have a diameter of about 40-100 nm.
+GO:0045202	The junction between an axon of one neuron and a dendrite of another neuron, a muscle fiber or a glial cell. As the axon approaches the synapse it enlarges into a specialized structure, the presynaptic terminal bouton, which contains mitochondria and synaptic vesicles. At the tip of the terminal bouton is the presynaptic membrane; facing it, and separated from it by a minute cleft (the synaptic cleft) is a specialized area of membrane on the receiving cell, known as the postsynaptic membrane. In response to the arrival of nerve impulses, the presynaptic terminal bouton secretes molecules of neurotransmitters into the synaptic cleft. These diffuse across the cleft and transmit the signal to the postsynaptic membrane.
+GO:0006713	The chemical reactions and pathways resulting in the breakdown of glucocorticoids, hormonal C21 corticosteroids synthesized from cholesterol.
+GO:0044325	Binding to a transmembrane transporter, a protein or protein complex that enables the transfer of a substance, usually a specific substance or a group of related substances, from one side of a membrane to the other.
+GO:0048167	A process that modulates synaptic plasticity, the ability of synapses to change as circumstances require. They may alter function, such as increasing or decreasing their sensitivity, or they may increase or decrease in actual numbers.
+GO:0002028	Any process that modulates the frequency, rate or extent of the directed movement of sodium ions (Na+) into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.
+GO:0005829	The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.
+GO:0017080	Binds to and modulates the activity of a sodium channel.
+GO:0019899	Binding to an enzyme, a protein with catalytic activity.
+GO:0042802	Binding to an identical protein or proteins.
+GO:0008104	Any process in which a protein is transported to, or maintained in, a specific location.
+GO:0045664	Any process that modulates the frequency, rate or extent of neuron differentiation.
+GO:0005886	The membrane surrounding a cell that separates the cell from its external environment. It consists of a phospholipid bilayer and associated proteins.
+GO:0098793	The part of a synapse that is part of the presynaptic cell.
+GO:0042921	A nuclear receptor-mediated signaling pathway initiated by a glucocorticoid binding to an intracellular receptor of the nuclear receptor protein family, and ending with regulation of a downstream cellular process, e.g. transcription.
+GO:0086010	The process in which membrane potential changes in the depolarizing direction from the negative resting potential towards the positive membrane potential that will be the peak of the action potential.
+GO:0019904	Binding to a specific domain of a protein.
+GO:0005159	Binding to an insulin-like growth factor receptor.
+GO:0098978	A synapse that uses glutamate as a neurotransmitter.
+GO:0007165	The cellular process in which a signal is conveyed to trigger a change in the activity or state of a cell. Signal transduction begins with reception of a signal (e.g. a ligand binding to a receptor or receptor activation by a stimulus such as light), or for signal transduction in the absence of ligand, signal-withdrawal or the activity of a constitutively active receptor. Signal transduction ends with regulation of a downstream cellular process, e.g. regulation of transcription or regulation of a metabolic process. Signal transduction covers signaling from receptors located on the surface of the cell and signaling via molecules located within the cell. For signaling between cells, signal transduction is restricted to events at and within the receiving cell.
+GO:0014704	A complex cell-cell junction at which myofibrils terminate in cardiomyocytes; mediates mechanical and electrochemical integration between individual cardiomyocytes. The intercalated disc contains regions of tight mechanical attachment (fasciae adherentes and desmosomes) and electrical coupling (gap junctions) between adjacent cells.
+GO:0005739	A semiautonomous, self replicating organelle that occurs in varying numbers, shapes, and sizes in the cytoplasm of virtually all eukaryotic cells. It is notably the site of tissue respiration.
+GO:0003779	Binding to monomeric or multimeric forms of actin, including actin filaments.
+GO:0045893	Any process that activates or increases the frequency, rate or extent of cellular DNA-templated transcription.
+GO:0035259	Binding to a nuclear glucocorticoid receptor.
+GO:0150048	A synapse of a granule cell fiber onto the dendrites of a Purkinje cell in cerebellum.
+GO:0006886	The directed movement of proteins in a cell, including the movement of proteins between specific compartments or structures within a cell, such as organelles of a eukaryotic cell.
+GO:0046982	Binding to a nonidentical protein to form a heterodimer.
+GO:0005737	The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.
+GO:0050774	Any process that stops, prevents, or reduces the frequency, rate or extent of dendrite morphogenesis.

@@ -1,0 +1,7 @@
+GO:0005634	A membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. In most cells, the nucleus contains all of the cell's chromosomes except the organellar chromosomes, and is the site of RNA synthesis and processing. In some species, or in specialized cell types, RNA metabolism or DNA replication may be absent.
+GO:0005515	Binding to a protein.
+GO:0005686	A ribonucleoprotein complex that contains small nuclear RNA U2, a heptameric ring of Sm proteins, as well as several proteins that are unique to the U2 snRNP, most of which remain associated with the U2 snRNA both while the U2 snRNP is free or assembled into a series of spliceosomal complexes.
+GO:0006396	Any process involved in the conversion of one or more primary RNA transcripts into one or more mature RNA molecules.
+GO:0003723	Binding to an RNA molecule or a portion thereof.
+GO:0003676	Binding to a nucleic acid.
+GO:0005654	That part of the nuclear content other than the chromosomes or the nucleolus.

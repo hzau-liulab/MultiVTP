@@ -1,0 +1,90 @@
+GO:0030048	Movement of organelles or other particles along actin filaments, or sliding of actin filaments past each other, mediated by motor proteins.
+GO:0005515	Binding to a protein.
+GO:0032970	Any process that modulates the frequency, rate or extent of any cellular process that depends upon or alters the actin cytoskeleton.
+GO:0070527	The adhesion of one platelet to one or more other platelets via adhesion molecules.
+GO:1903923	Any process that activates or increases the frequency, rate or extent of protein processing in phagocytic vesicle.
+GO:0030863	The portion of the cytoskeleton that lies just beneath the plasma membrane.
+GO:0009986	The external part of the cell wall and/or plasma membrane.
+GO:0001725	A contractile actin filament bundle that consists of short actin filaments with alternating polarity, cross-linked by alpha-actinin and possibly other actin bundling proteins, and with myosin present in a periodic distribution along the fiber.
+GO:0032418	Any process in which a lysosome is transported to, and/or maintained in, a specific location.
+GO:0001726	Projection at the leading edge of a crawling cell; the protrusions are supported by a microfilament meshwork.
+GO:0006509	The proteolytic cleavage of transmembrane proteins and release of their ectodomain (extracellular domain).
+GO:0001618	Combining with a virus component and mediating entry of the virus into the cell.
+GO:0030036	A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of cytoskeletal structures comprising actin filaments and their associated proteins.
+GO:0005886	The membrane surrounding a cell that separates the cell from its external environment. It consists of a phospholipid bilayer and associated proteins.
+GO:0032796	A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of a uropod, a rigid membrane projection with related cytoskeletal components at the trailing edge of a lymphocyte or other cell in the process of migrating or being activated.
+GO:0042641	Any complex of actin, myosin, and accessory proteins.
+GO:0031252	The area of a motile cell closest to the direction of movement.
+GO:0051015	Binding to an actin filament, also known as F-actin, a helical filamentous polymer of globular G-actin subunits.
+GO:0031410	A vesicle found in the cytoplasm of a cell.
+GO:0016020	A lipid bilayer along with all the proteins and protein complexes embedded in it and attached to it.
+GO:0031594	The junction between the axon of a motor neuron and a muscle fiber. In response to the arrival of action potentials, the presynaptic button releases molecules of neurotransmitters into the synaptic cleft. These diffuse across the cleft and transmit the signal to the postsynaptic membrane of the muscle fiber, leading to a change in post-synaptic potential.
+GO:0005856	A cellular structure that forms the internal framework of eukaryotic and prokaryotic cells. The cytoskeleton includes intermediate filaments, microfilaments, microtubules, the microtrabecular lattice, and other structures characterized by a polymeric filamentous nature and long-range order within the cell. The various elements of the cytoskeleton not only serve in the maintenance of cellular shape but also have roles in other cellular functions, including cellular movement, cell division, endocytosis, and movement of organelles.
+GO:0060327	The actin filament-based movement by which cytoplasmic actin filaments slide past one another resulting in a contraction that propels the cell from one place to another.
+GO:0098609	The attachment of one cell to another cell via adhesion molecules.
+GO:0003779	Binding to monomeric or multimeric forms of actin, including actin filaments.
+GO:1903919	Any process that stops, prevents or reduces the frequency, rate or extent of actin filament severing.
+GO:0043531	Binding to ADP, adenosine 5'-diphosphate.
+GO:0005912	A cell-cell junction composed of the epithelial cadherin-catenin complex. The epithelial cadherins, or E-cadherins, of each interacting cell extend through the plasma membrane into the extracellular space and bind to each other. The E-cadherins bind to catenins on the cytoplasmic side of the membrane, where the E-cadherin-catenin complex binds to cytoskeletal components and regulatory and signaling molecules.
+GO:0001701	The process whose specific outcome is the progression of the embryo in the uterus over time, from formation of the zygote in the oviduct, to birth. An example of this process is found in Mus musculus.
+GO:0005737	The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.
+GO:0001772	An area of close contact between a lymphocyte (T-, B-, or natural killer cell) and a target cell formed through the clustering of particular signaling and adhesion molecules and their associated membrane rafts on both the lymphocyte and the target cell and facilitating activation of the lymphocyte, transfer of membrane from the target cell to the lymphocyte, and in some situations killing of the target cell through release of secretory granules and/or death-pathway ligand-receptor interaction.
+GO:0000146	A motor activity that generates movement along a microfilament, driven by ATP hydrolysis.
+GO:0060471	The process of secretion by a cell that results in the release of intracellular molecules contained within a cortical granule by fusion of the vesicle with the plasma membrane of a cell. A cortical granule is a specialized secretory vesicle that is released during egg activation that changes the surface of the egg to prevent polyspermy.
+GO:0042803	Binding to an identical protein to form a homodimer.
+GO:0007520	A process in which non-proliferating myoblasts fuse to existing fibers or to myotubes to form new fibers. A myoblast is a mononucleate cell type that, by fusion with other myoblasts, gives rise to the myotubes that eventually develop into skeletal muscle fibers.
+GO:1905684	Any process that modulates the frequency, rate or extent of plasma membrane repair.
+GO:0007155	The attachment of a cell, either to another cell or to an underlying substrate such as the extracellular matrix, via cell adhesion molecules.
+GO:0035987	The process in which a relatively unspecialized cell acquires the specialized features of an endoderm cell, a cell of the inner of the three germ layers of the embryo.
+GO:0003723	Binding to an RNA molecule or a portion thereof.
+GO:0048870	Any process involved in the controlled self-propelled movement of a cell that results in translocation of the cell from one place to another.
+GO:0000166	Binding to a nucleotide, any compound consisting of a nucleoside that is esterified with (ortho)phosphate or an oligophosphate at any hydroxyl group on the ribose or deoxyribose.
+GO:0019904	Binding to a specific domain of a protein.
+GO:0001931	A membrane projection with related cytoskeletal components at the trailing edge of a cell in the process of migrating or being activated, found on the opposite side of the cell from the leading edge or immunological synapse, respectively.
+GO:0005925	A cell-substrate junction that anchors the cell to the extracellular matrix and that forms a point of termination of actin filaments. In insects focal adhesion has also been referred to as hemi-adherens junction (HAJ).
+GO:0032506	A cellular process that is involved in cytokinesis (the division of the cytoplasm of a cell and its separation into two daughter cells).
+GO:0005178	Binding to an integrin.
+GO:0001768	The directed orientation of T cell signaling molecules and associated membrane rafts towards a chemokine gradient or a contact point with antigen presenting cell.
+GO:0097513	A bipolar filament composed of myosin II molecules.
+GO:0032982	A supramolecular fiber containing myosin heavy chains, plus associated light chains and other proteins, in which the myosin heavy chains are arranged into a filament.
+GO:0001778	The resealing of a cell plasma membrane after cellular wounding due to, for instance, mechanical stress.
+GO:0043534	The orderly movement of an endothelial cell into the extracellular matrix in order to form new blood vessels during angiogenesis.
+GO:0005794	A membrane-bound cytoplasmic organelle of the endomembrane system that further processes the core oligosaccharides (e.g. N-glycans) added to proteins in the endoplasmic reticulum and packages them into membrane-bound vesicles. The Golgi apparatus operates at the intersection of the secretory, lysosomal, and endocytic pathways.
+GO:0005829	The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.
+GO:0006911	The internalization of bacteria, immune complexes and other particulate matter or of an apoptotic cell by phagocytosis, including the membrane and cytoskeletal processes required, which involves one of three mechanisms: zippering of pseudopods around a target via repeated receptor-ligand interactions, sinking of the target directly into plasma membrane of the phagocytosing cell, or induced uptake via an enhanced membrane ruffling of the phagocytosing cell similar to macropinocytosis.
+GO:0099512	A polymer consisting of an indefinite number of protein or protein complex subunits that have polymerised to form a fiber-shaped structure.
+GO:0016460	A myosin complex containing two class II myosin heavy chains, two myosin essential light chains and two myosin regulatory light chains. Also known as classical myosin or conventional myosin, the myosin II class includes the major muscle myosin of vertebrate and invertebrate muscle, and is characterized by alpha-helical coiled coil tails that self assemble to form a variety of filament structures.
+GO:0042802	Binding to an identical protein or proteins.
+GO:0005634	A membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. In most cells, the nucleus contains all of the cell's chromosomes except the organellar chromosomes, and is the site of RNA synthesis and processing. In some species, or in specialized cell types, RNA metabolism or DNA replication may be absent.
+GO:0015031	The directed movement of proteins into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.
+GO:0000212	A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of the microtubule spindle during a meiotic cell cycle.
+GO:0045296	Binding to cadherin, a type I membrane protein involved in cell adhesion.
+GO:0003774	Generation of force resulting in movement, for example along a microfilament or microtubule, or in torque resulting in membrane scission or rotation of a flagellum. The energy required is obtained either from the hydrolysis of a nucleoside triphosphate or by an electrochemical proton gradient (proton-motive force).
+GO:0043495	The binding activity of a molecule that brings together a protein or a protein complex with a membrane, or bringing together two membranes, either via membrane lipid binding or by interacting with a membrane protein, to establish or maintain the localization of the protein, protein complex or organelle.
+GO:0005903	The dense covering of microvilli on the apical surface of an epithelial cell in tissues such as the intestine, kidney, and choroid plexus; the microvilli aid absorption by increasing the surface area of the cell.
+GO:0046718	The process by which a symbiont breaches the plasma membrane or cell envelope and enters the host cell. The process ends when the symbiont or its genome is released into the host cell.
+GO:0005516	Binding to calmodulin, a calcium-binding protein with many roles, both in the calcium-bound and calcium-free states.
+GO:0009898	The leaflet the plasma membrane that faces the cytoplasm and any proteins embedded or anchored in it or attached to its surface.
+GO:0008180	A protein complex that catalyzes the deneddylation of proteins, including the cullin component of SCF ubiquitin E3 ligase; deneddylation increases the activity of cullin family ubiquitin ligases. The signalosome is involved in many regulatory process, including some which control development, in many species; also regulates photomorphogenesis in plants; in many species its subunits are highly similar to those of the proteasome.
+GO:0031032	A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of cytoskeletal structures containing both actin and myosin or paramyosin. The myosin may be organized into filaments.
+GO:0070062	A vesicle that is released into the extracellular region by fusion of the limiting endosomal membrane of a multivesicular body with the plasma membrane. Extracellular exosomes, also simply called exosomes, have a diameter of about 40-100 nm.
+GO:0008360	Any process that modulates the surface configuration of a cell.
+GO:0060473	A secretory vesicle that is stored under the cell membrane of an egg. These vesicles fuse with the egg plasma membrane as part of egg activation and are part of the block to polyspermy.
+GO:0032154	The cleavage furrow is a plasma membrane invagination at the cell division site. The cleavage furrow begins as a shallow groove and eventually deepens to divide the cytoplasm.
+GO:0051295	The cell cycle process in which the directed movement of the meiotic spindle to a specific location in the cell occurs.
+GO:0016604	Extra-nucleolar nuclear domains usually visualized by confocal microscopy and fluorescent antibodies to specific proteins.
+GO:0000902	The developmental process in which the size or shape of a cell is generated and organized.
+GO:0007229	The series of molecular signals initiated by an extracellular ligand binding to an integrin on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription.
+GO:0001525	Blood vessel formation when new vessels emerge from the proliferation of pre-existing blood vessels.
+GO:0030220	The process in which platelets bud from long processes extended by megakaryocytes.
+GO:0005524	Binding to ATP, adenosine 5'-triphosphate, a universally important coenzyme and enzyme regulator.
+GO:0050900	The movement of a leukocyte within or between different tissues and organs of the body.
+GO:0045055	A process of exocytosis in which soluble proteins and other substances are initially stored in secretory vesicles for later release. It is found mainly in cells that are specialized for secreting products such as hormones, neurotransmitters, or digestive enzymes rapidly on demand.
+GO:0005826	A cytoskeletal structure composed of actin filaments and myosin that forms beneath the plasma membrane of many cells, including animal cells and yeast cells, in a plane perpendicular to the axis of the spindle, i.e. the cell division plane. In animal cells, the contractile ring is located at the cleavage furrow. In budding fungal cells, e.g. mitotic S. cerevisiae cells, the contractile ring forms at the mother-bud neck before mitosis.
+GO:0007010	A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of cytoskeletal structures.
+GO:0015629	The part of the cytoskeleton (the internal framework of a cell) composed of actin and associated proteins. Includes actin cytoskeleton-associated complexes.
+GO:0005938	The region of a cell that lies just beneath the plasma membrane and often, but not always, contains a network of actin filaments and associated proteins.
+GO:0016459	A protein complex, formed of one or more myosin heavy chains plus associated light chains and other proteins, that functions as a molecular motor; uses the energy of ATP hydrolysis to move actin filaments or to move vesicles or other cargo on fixed actin filaments; has magnesium-ATPase activity and binds actin. Myosin classes are distinguished based on sequence features of the motor, or head, domain, but also have distinct tail regions that are believed to bind specific cargoes.
+GO:0005819	The array of microtubules and associated molecules that forms between opposite poles of a eukaryotic cell during mitosis or meiosis and serves to move the duplicated chromosomes apart.
+GO:0032991	A stable assembly of two or more macromolecules, i.e. proteins, nucleic acids, carbohydrates or lipids, in which at least one component is a protein and the constituent parts function together.
+GO:0030224	The process in which a relatively unspecialized myeloid precursor cell acquires the specialized features of a monocyte.
