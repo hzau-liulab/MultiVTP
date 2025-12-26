@@ -34,5 +34,16 @@ ESM-2 [esm2_t36_3B_UR50D](https://dl.fbaipublicfiles.com/fair-esm/models/esm2_t3
 PubMedBERT [PubMedBERT](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224/tree/main)
 
 Pre-trained model weights need move to the `./model_weights` folder. ESM-2 and PubMedBERT should be placed in the `./pretrain_models/ESM2` and `./pretrain_models/PubMedBERT` directories, respectively.
-        
+
+## Run MultiVTP model
+1. Prepare input fasta file.      
+   Each protein sequence should be saved in the `./input/fast` folder in FASTA format.       
+   
+2. Prepare input protein function file.    
+   Each protein function should be saved in the `./input/GO` folder in txt format.
+
+3. Download the global topological properties.
+   Global topological properties [Global topological properties](https://drive.google.com/file/d/1WDSQf_rUHxOlvipQ-2fPHkB5EKGnEajl/view?usp=drive_link)
+   Please place the global_topological_properties file into the `./input/PPInetwork/directory`.
+
 
