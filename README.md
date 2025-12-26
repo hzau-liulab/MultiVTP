@@ -31,7 +31,7 @@ MultiVTP is a multilabel model for virus target protein prediction that integrat
 3.Download the pre-trained model weights            
 Our pre-trained models can be found at [MultiVTP model]()         
 ESM-2 [esm2_t36_3B_UR50D](https://dl.fbaipublicfiles.com/fair-esm/models/esm2_t36_3B_UR50D.pt)        
-PubMedBERT [PubMedBERT](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224/tree/main]
+PubMedBERT [PubMedBERT](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224/tree/main)
         
         
         
