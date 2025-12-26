@@ -5,8 +5,8 @@ MultiVTP is a multilabel model for virus target protein prediction that integrat
 ## Installation 
 1. Clone the repository to your local device.
    ```shell
-    git clone https://github.com/hzau-liulab/MultiVTP   
-    cd MultiVTP
+   git clone https://github.com/hzau-liulab/MultiVTP   
+   cd MultiVTP
    ```
 2.Install the necessary dependencies.
    * Python packages
