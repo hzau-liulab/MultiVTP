@@ -43,8 +43,8 @@ Pre-trained model weights need move to the `./model_weights` folder. ESM-2 and P
    Save each protein's functional annotations (Gene Ontology terms) in the `./input/GO` folder.
 
 3. Download network Files.
-   Global Topological Properties: Download and place the global_topological_properties into `./input/PPInetwork/directory`[Global Topological Properties](https://drive.google.com/file/d/1WDSQf_rUHxOlvipQ-2fPHkB5EKGnEajl/view?usp=drive_link).
-   Subgraphs: Download and also place it into `./input/PPInetwork`. [Subgraphs](https://drive.google.com/file/d/1fNAyrpgUU92InZqpkvme-CdmpEF4mO7x/view?usp=sharing)
+   Global Topological Properties: Download and place the global_topological_properties into `./input/PPInetwork/directory`[Global Topological Properties](https://drive.google.com/file/d/1WDSQf_rUHxOlvipQ-2fPHkB5EKGnEajl/view?usp=drive_link).    
+   Subgraphs: Download and also place it into `./input/PPInetwork`. [Subgraphs](https://drive.google.com/file/d/1fNAyrpgUU92InZqpkvme-CdmpEF4mO7x/view?usp=sharing)    
    Alternatively, you can generate subgraphs yourself by running the script `./features/PPInetwork/network_attributes.py`.
    
    
