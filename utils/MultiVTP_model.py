@@ -7,7 +7,7 @@ sys.path.append(PROJECT_ROOT)
 from MultiVTP.modules.PLE_model import PLE
 from MultiVTP.modules.GO_semsim import GCN_gosemsim
 from MultiVTP.modules.ESM_branches import ESM_branches
-from MultiVTP.modules.Graphormer import GraphormerBlock
+from MultiVTP.modules.Graphormer_model import GraphormerBlock
 
 class MultiVTP(nn.Module):
     def __init__(self):
@@ -19,7 +19,7 @@ class MultiVTP(nn.Module):
         self.gf = nn.ModuleList([GraphormerBlock(576) for _ in range(1)])
         self.dis_embeding = torch.nn.Embedding(30, 1, dtype=torch.float32)
         self.dis_embeding.weight.data.fill_(0)
-        self.clf = PLE(576*3, 256, 256, 11)
+        self.clf = PLE(576*3, 256, 256, 25)
     
     def forward(self, batch_data):
         """
@@ -56,5 +56,6 @@ class MultiVTP(nn.Module):
     def get_node_embeding(self, multimodal, global_encoding):
         node_embeding = torch.cat((multimodal, global_encoding), dim=-1)
         return node_embeding
+
 
 
